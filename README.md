@@ -55,8 +55,8 @@ looking for specific types of vehicles that best match their preferences.
 ## App structure:
 
     analyze_that_car/
-    │]2=│6]=6jhuy98}    ├── ui/0yfzxdfgtyu90-+-![img.png](img.png)59[+-0467890,mkjoui089o0p[
- _0    │   ├── ui_kmeans_cluster_analyze.py
+    ├── ui/
+    │   ├── ui_kmeans_cluster_analyze.py
     │   └── ui_topsis_search.py
     │
     ├── utils/
