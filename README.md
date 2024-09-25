@@ -1,6 +1,6 @@
 # Project: Analyze that car!
 
-Car Analysis and Recommendation System
+Car Analysis and Recommendation System using Pandas, Numpy, Matplotlib and Streamlit for UI-visualization.
 This project consists of two main components:
 
 ## 1.KMeans Clustering Algorithm:
