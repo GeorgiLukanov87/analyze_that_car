@@ -19,7 +19,6 @@ Visualizes the clustering results using PCA for dimensionality reduction.
 ![clusters_changing3.gif](clusters_changing3.gif)
 ![topsis1](https://github.com/user-attachments/assets/2337f7c6-82d7-4f3c-b015-e3b66580fae5)
 
-![kmean1](https://github.com/user-attachments/assets/83bbd55e-264c-4a80-9163-975a97a07cb3)
 ![clusters_changing.gif](clusters_changing.gif)
 
 
