@@ -82,7 +82,8 @@ looking for specific types of vehicles that best match their preferences.
     ├── data/
     │   ├── raw_data/
     │   └── saved_data/
-    │
+    |
+    ├── main.py
     └── requirements.txt
 
 ## Installation Steps
