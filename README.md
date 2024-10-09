@@ -19,10 +19,10 @@
 #
 
 
-## Car Analysis and Recommendation System using Pandas, Numpy, Matplotlib and Streamlit for UI-visualization.
-This project consists of two main components:
+### Car Analysis and Recommendation System using Pandas, Numpy, Matplotlib and Streamlit for UI-visualization.
+### This project consists of two main components:
 
-## 1.KMeans Clustering Algorithm:
+# 1. KMeans Clustering Algorithm:
 
 Performs data preprocessing and clustering on a car dataset.
 Uses the KMeans algorithm to group cars into 2-6 clusters based on
@@ -62,7 +62,7 @@ or
 4. Fast luxury
 5. Cheap, budget
 
-## 2.TOPSIS Method (TOPSIS_method.py):
+### 2. TOPSIS Method (TOPSIS_method.py):
 
 Implements the Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) for car recommendation.
 Reads the clustered car data from KMeans Clustering Algorithm.
@@ -146,7 +146,7 @@ For a complete list of dependencies, refer to the `requirements.txt` file.
 
     streamlit run analyze_that_cars\main.py
 
-You can now view your Streamlit app in your browser.
+You can now view your Streamlit app locally in your browser.
 
 Local URL: http://localhost:8501
 Network URL: http://192.168.100.12:8501
