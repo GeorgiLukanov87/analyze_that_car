@@ -1,11 +1,25 @@
 # Project: Analyze that car!
 
-Deployment Link: https://georgilukanov87-analyze-that-car-main-c9mg56.streamlit.app/
+### Deployment Link:
+#### https://georgilukanov87-analyze-that-car-main-c9mg56.streamlit.app/
 
-Download Cars-Dataset and test the app: https://github.com/GeorgiLukanov87/analyze_that_car/tree/main/data/raw_data
+### Download Cars-Dataset:
+#### https://github.com/GeorgiLukanov87/analyze_that_car/tree/main/data/raw_data
+#
+
+### Steps test the App:
+
+1. Upload or dropdown the Car-Dataset("selling_cars_list".csv" from the link above).
+2. Then you will see automatically the cleaned and scaled data. Then you are ready to execute the program.
+3. Click on the "Run KMeans" button to run the algorithm and see the process - how clusters are changing and visualizations from the process.
+4. After executing the KMeans process, you can save one or more of the results as CSV file on your computer(new generated cluster/category you wish) and perform the next step.
+5. The Topsis method -> clicking on the left side of the panel to choose the dropdown menu(TOPSIS).
+6. Now upload or dropdown the saved CSV of your category you saved and perform the Topsis method.
+7. Set preferences/weight to your search for more detailed and best matches for you.
+#
 
 
-Car Analysis and Recommendation System using Pandas, Numpy, Matplotlib and Streamlit for UI-visualization.
+## Car Analysis and Recommendation System using Pandas, Numpy, Matplotlib and Streamlit for UI-visualization.
 This project consists of two main components:
 
 ## 1.KMeans Clustering Algorithm:
