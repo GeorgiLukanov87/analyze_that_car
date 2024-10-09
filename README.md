@@ -1,10 +1,9 @@
 # Project: Analyze that car!
 
-Deployment Link:
-https://georgilukanov87-analyze-that-car-main-c9mg56.streamlit.app/
+Deployment Link: https://georgilukanov87-analyze-that-car-main-c9mg56.streamlit.app/
 
-Download Cars-Dataset and test the app:
-https://github.com/GeorgiLukanov87/analyze_that_car/tree/main/data/raw_data
+Download Cars-Dataset and test the app: https://github.com/GeorgiLukanov87/analyze_that_car/tree/main/data/raw_data
+
 
 Car Analysis and Recommendation System using Pandas, Numpy, Matplotlib and Streamlit for UI-visualization.
 This project consists of two main components:
