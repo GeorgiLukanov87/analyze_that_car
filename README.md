@@ -1,5 +1,11 @@
 # Project: Analyze that car!
 
+Deployment Link:
+https://georgilukanov87-analyze-that-car-main-c9mg56.streamlit.app/
+
+Download Cars-Dataset and test the app:
+https://github.com/GeorgiLukanov87/analyze_that_car/tree/main/data/raw_data
+
 Car Analysis and Recommendation System using Pandas, Numpy, Matplotlib and Streamlit for UI-visualization.
 This project consists of two main components:
 
@@ -12,12 +18,12 @@ Implements the elbow method to determine the optimal number of clusters.
 Visualizes the clustering results using PCA for dimensionality reduction.
 
 ## Examples:
+
 ![clusters_changing2](https://github.com/user-attachments/assets/1dd2e0f8-d451-4a6b-8a20-1a6f9b647579)
 
 ![elbow1](https://github.com/user-attachments/assets/28990845-e789-4ff3-8e2e-7567e9c94bb0)
 
 ![clusters_changing3](https://github.com/user-attachments/assets/2e12fd85-c408-48d0-83aa-db85f863fd9c)
-
 
 ![topsis1](https://github.com/user-attachments/assets/2337f7c6-82d7-4f3c-b015-e3b66580fae5)
 
