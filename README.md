@@ -5,10 +5,7 @@
 
 ### Download Cars-Dataset:
 #### https://github.com/GeorgiLukanov87/analyze_that_car/tree/main/data/raw_data
-
-#
-
-### Steps test the App:
+### Steps to test the App:
 
 1. Upload or dropdown the Car-Dataset("selling_cars_list".csv" from the link above).
 2. Then you will see automatically the cleaned and scaled data. Then you are ready to execute the program.
@@ -17,8 +14,8 @@
 5. The Topsis method -> clicking on the left side of the panel to choose the dropdown menu(TOPSIS).
 6. Now upload or dropdown the saved CSV of your category you saved and perform the Topsis method.
 7. Set preferences/weight to your search for more detailed and best matches for you.
+   
 #
-
 
 ### Car Analysis and Recommendation System using Pandas, Numpy, Matplotlib and Streamlit for UI-visualization.
 ### This project consists of two main components:
@@ -42,10 +39,6 @@ Visualizes the clustering results using PCA for dimensionality reduction.
 ![topsis1](https://github.com/user-attachments/assets/2337f7c6-82d7-4f3c-b015-e3b66580fae5)
 
 ![clusters_changing](https://github.com/user-attachments/assets/286e45a7-c795-4ec6-b996-86e27afecdc5)
-
-
-
-
 
     Categorizes cars into clusters:
 
