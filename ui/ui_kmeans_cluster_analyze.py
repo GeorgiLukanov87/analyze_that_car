@@ -12,6 +12,14 @@ from sklearn.cluster import KMeans
 def run_kmeans_ui():
     st.title('KMeans Clustering Algorithm')
 
+    # Add the download link at the top of the main screen
+    st.markdown("""
+    To get started, you can download the Car-DataSet CSV file from this link:
+    [Download CarDataSet     CSV](https://github.com/GeorgiLukanov87/analyze_that_car/tree/main/data/raw_data)
+    """)
+
+    st.write("Once you have downloaded the CSV file, you can upload or dropdown it below:")
+
     uploaded_file = st.file_uploader("Upload CSV", type=["csv"])
 
     if uploaded_file is not None:
@@ -20,7 +28,7 @@ def run_kmeans_ui():
         st.write(f'Cleaned Data:\n', data.head())
 
         """
-        (data - data.min()): This subtracts the minimum value from each element in the respective column. 
+        (data - data.min()): This subtracts the minimum value from each element in the respective column.
         This shifts the minimum value to 0.
         (data.max() - data.min()): This calculates the range (difference between maximum and minimum) for each column.
         # (No negative values or 0) the values must be in range (0.1 to 1) or (1 to 10) or (10 to 100) etc...
@@ -91,8 +99,8 @@ def display_cluster_results(cars, labels):
     new_cars_cluster4 = clean_car_data(pd.DataFrame(df_list4))
     new_cars_cluster5 = clean_car_data(pd.DataFrame(df_list5))
 
-    #automate this
-    #TODO
+    # automate this
+    # TODO
 
     # Display and save each categorized cluster
     st.write('Best deal cars(Balanced stats, good year, middle price, low kms, high engine cc):')
