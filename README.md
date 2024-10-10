@@ -1,7 +1,7 @@
 # Project: Analyze that car!
 
 ### Deployment Link:
-#### [[https://georgilukanov87-analyze-that-car-main-c9mg56.streamlit.app/](https://georgilukanov87-analyze-that-car-main-c9mg56.streamlit.app/?embed_options=dark_theme)](https://analyze-that-car.streamlit.app/)
+#### https://analyze-that-car.streamlit.app/
 
 ### Download Cars-Dataset:
 #### https://github.com/GeorgiLukanov87/analyze_that_car/tree/main/data/raw_data
