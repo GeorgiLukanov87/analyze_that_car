@@ -1,423 +1,235 @@
 ,name,year,price,kms,fuel,seller_type,transmission,owner,mileage,engine_cc,horsepower,torque,seats,cluster
-7,Maruti 800 DX BSII,2001.0,4500.0,5000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-11,Maruti Zen LX,2005.0,9200.0,100000.0,Petrol,Individual,Manual,Second Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-18,Maruti Alto LX,2002.0,15000.0,80000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-40,Maruti 800 Std,2012.0,15000.0,76000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-94,Maruti Zen Estilo LXI BSIII,2009.0,17500.0,55500.0,Petrol,Dealer,Manual,First Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-98,Maruti Alto LX BSIII,2008.0,12000.0,68000.0,Petrol,Dealer,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-126,Maruti Alto LXi,2008.0,10500.0,65000.0,Petrol,Individual,Manual,Fourth & Above Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-128,Hyundai Santro Xing GLS,2009.0,13500.0,80000.0,Petrol,Individual,Manual,Second Owner,17.0,1086.0,62.0,96.1Nm@ 3000rpm,5.0,5
-177,Maruti 800 Std,1999.0,4000.0,40000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
+108,Volkswagen Passat 1.8 TSI MT,2010.0,70000.0,114000.0,Petrol,Individual,Manual,First Owner,14.0,1798.0,160.0,250Nm@ 1500~4500rpm,5.0,5
+114,Toyota Corolla Altis G,2009.0,30000.0,100000.0,Petrol,Individual,Manual,Second Owner,14.0,1798.0,138.0,173Nm@ 4000rpm,5.0,5
+144,Toyota Corolla Altis 1.8 G CVT,2013.0,62500.0,39000.0,Petrol,Dealer,Automatic,First Owner,14.0,1798.0,138.0,173Nm@ 4000rpm,5.0,5
+149,BMW 5 Series 523i,2010.0,97500.0,72200.0,Petrol,Dealer,Automatic,Second Owner,10.0,2497.0,150.0,250 Nm at 2750 rpm,5.0,5
+153,Volkswagen Vento Petrol Highline,2011.0,37500.0,49000.0,Petrol,Individual,Manual,First Owner,15.0,1598.0,103.0,153Nm@ 3800rpm,5.0,5
+154,Hyundai Elantra SX,2012.0,55000.0,95000.0,Petrol,Individual,Manual,First Owner,16.0,1797.0,147.0,177.5Nm@ 4700rpm,5.0,5
+168,Toyota Camry W4 (AT),2009.0,45000.0,71000.0,Petrol,Dealer,Automatic,First Owner,12.0,2362.0,164.0,224Nm@ 4000rpm,5.0,5
 184,Honda City 1.5 EXI,2005.0,10000.0,120000.0,Petrol,Individual,Manual,Second Owner,13.0,1493.0,100.0,13.1kgm@ 4600rpm,5.0,5
-186,Daewoo Matiz SD,2000.0,10000.0,60000.0,Petrol,Individual,Manual,First Owner,18.0,796.0,53.0,71Nm@ 3500rpm,5.0,5
-191,Maruti Zen LXI,2005.0,8500.0,90000.0,Petrol,Individual,Manual,First Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-195,Hyundai Getz GLS,2005.0,6500.0,86000.0,Petrol,Individual,Manual,First Owner,15.0,1341.0,83.0,115Nm@ 3200rpm,5.0,5
-284,Maruti Alto LX,2005.0,11000.0,45000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-302,Maruti Alto LXI,2005.0,9000.0,99361.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-310,Maruti 800 Std,2006.0,8100.0,80000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-328,Maruti Zen LXI,2003.0,6500.0,60000.0,Petrol,Individual,Manual,Fourth & Above Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-333,Maruti Zen LXI,2002.0,6000.0,100000.0,Petrol,Individual,Manual,Fourth & Above Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-335,Maruti Zen Estilo LXI BSIII,2007.0,8500.0,80000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-337,Maruti Alto LX,2005.0,8500.0,80000.0,Petrol,Individual,Manual,Fourth & Above Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-343,Maruti Wagon R LXI,2005.0,8900.0,90000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-365,Maruti Wagon R LXI,2005.0,6500.0,35000.0,Petrol,Individual,Manual,First Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-430,Maruti Alto LXi BSIII,2010.0,16000.0,80000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-437,Maruti 800 AC BSIII,2009.0,13000.0,40000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-441,Maruti 800 AC BSIII,2004.0,8100.0,80000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-444,Maruti 800 Std,2010.0,12000.0,70000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-525,Maruti Alto LXi BSIII,2009.0,12500.0,60000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-537,Maruti Alto LXi,2009.0,13000.0,70000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-542,Maruti Alto LXI,2002.0,14000.0,50000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-572,Maruti Wagon R LXI,2004.0,12000.0,120000.0,Petrol,Individual,Manual,Third Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-691,Hyundai Santro Xing GL Plus,2009.0,11499.9,90000.0,Petrol,Individual,Manual,Fourth & Above Owner,17.0,1086.0,62.0,96.1Nm@ 3000rpm,5.0,5
-759,Maruti Alto LX,2005.0,8500.0,150000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-760,Tata Indica V2 DL BSIII,2006.0,6750.0,110000.0,Diesel,Individual,Manual,Fourth & Above Owner,17.0,1396.0,52.0,85Nm@ 2500rpm,5.0,5
-782,Chevrolet Aveo U-VA 1.2 LS,2008.0,8000.0,70000.0,Petrol,Individual,Manual,Second Owner,15.0,1150.0,74.0,110Nm@ 4400rpm,5.0,5
-785,Hyundai Santro Xing GL,2009.0,12000.0,90000.0,Petrol,Individual,Manual,Second Owner,0.0,1086.0,62.0,96.1Nm@ 3000rpm,5.0,5
-791,Maruti 800 AC,2012.0,10000.0,51000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-794,Maruti Alto LXi,2010.0,16500.0,30000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-808,Maruti 800 AC,2000.0,8000.0,70000.0,Petrol,Individual,Manual,Fourth & Above Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-817,Maruti Alto Std,2008.0,9500.0,120000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-818,Maruti Omni 8 Seater BSII,2009.0,10100.0,90000.0,Petrol,Individual,Manual,Fourth & Above Owner,19.0,796.0,35.0,6.1kgm@ 3000rpm,8.0,5
-850,Maruti Alto LX,2009.0,12000.0,58000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-901,Maruti 800 Std,2002.0,4000.0,80000.0,Petrol,Individual,Manual,Third Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-938,Maruti 800 AC,2007.0,9000.0,90000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-942,Maruti Zen LXI,2006.0,12000.0,141000.0,Petrol,Individual,Manual,Second Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-951,Maruti Zen D,2003.0,8500.0,120000.0,Diesel,Individual,Manual,Third Owner,20.0,1527.0,58.0,789Nm@ 2250rpm,5.0,5
-958,Maruti Zen Estilo 1.1 LXI BSIII,2007.0,9000.0,60000.0,Petrol,Individual,Manual,Second Owner,18.0,1061.0,64.0,84Nm@ 3500rpm,5.0,5
-966,Maruti Alto LXi BSIII,2010.0,15000.0,91500.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-975,Hyundai Getz GLS,2005.0,6500.0,85000.0,Petrol,Individual,Manual,First Owner,15.0,1341.0,83.0,115Nm@ 3200rpm,5.0,5
-986,Chevrolet Spark 1.0 LT,2009.0,9500.0,120000.0,Petrol,Individual,Manual,Third Owner,18.0,995.0,62.0,90.3Nm@ 4200rpm,5.0,5
-999,Maruti 800 AC,1999.0,5500.0,60000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-1025,Maruti Alto LX,2000.0,10800.0,206000.0,Petrol,Individual,Manual,Fourth & Above Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1034,Maruti Alto LXi,2009.0,12000.0,90000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1161,Maruti Alto LXI,2005.0,9000.0,40000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1162,Maruti Alto LXI,2005.0,8000.0,40000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1195,Maruti Alto LXi,2007.0,9500.0,70000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1222,Maruti Alto LX,2006.0,10000.0,40000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
+190,Honda City 1.5 S MT,2009.0,34500.0,47000.0,Petrol,Individual,Manual,Second Owner,17.0,1497.0,118.0,146Nm at 4800 rpm,5.0,5
+193,Hyundai Verna Transform SX VTVT,2010.0,32000.0,100000.0,Petrol,Individual,Manual,Third Owner,16.0,1599.0,103.0,14.9 KGM at 3000 RPM,5.0,5
+216,Toyota Corolla Altis 1.8 VL AT,2012.0,55000.0,100000.0,Petrol,Individual,Automatic,First Owner,14.0,1794.0,138.0,173Nm@ 4000rpm,5.0,5
+361,Hyundai Elantra SX AT,2013.0,69000.0,68000.0,Petrol,Dealer,Automatic,First Owner,14.0,1797.0,147.0,177.5Nm@ 4700rpm,5.0,5
+391,Honda CR-V 2.4L 4WD AT,2009.0,50000.0,120000.0,Petrol,Individual,Automatic,Second Owner,11.0,2354.0,158.0,218Nm@ 4200rpm,5.0,5
+474,Hyundai Verna Transform CRDi VGT SX ABS,2010.0,26000.0,110000.0,Diesel,Individual,Manual,Second Owner,16.0,1493.0,110.0,24 KGM at 1900-2750 RPM,5.0,5
+499,Honda Civic 1.8 V AT,2007.0,35000.0,90000.0,Petrol,Individual,Automatic,First Owner,12.0,1799.0,130.0,172Nm@ 4300rpm,5.0,5
+506,Tata New Safari DICOR 2.2 VX 4x2,2009.0,25000.0,146000.0,Diesel,Individual,Manual,Second Owner,13.0,2179.0,138.0,320Nm@ 1700-2700rpm,7.0,5
+628,Honda Accord V6 AT,2004.0,27500.0,100000.0,Petrol,Individual,Automatic,Second Owner,9.0,2997.0,218.0,196Nm@ 5000rpm,5.0,5
+715,Mahindra Scorpio M2DI,2011.0,42000.0,100000.0,Diesel,Individual,Manual,Second Owner,13.0,2179.0,115.0,277.5Nm@ 1700-2200rpm,5.0,5
+716,Honda CR-V 2.4 4WD AT,2007.0,32500.0,70000.0,Petrol,Individual,Automatic,Second Owner,10.0,2354.0,152.0,215Nm@ 3600rpm,5.0,5
+775,Mahindra Scorpio M2DI,2011.0,45000.0,150000.0,Diesel,Individual,Manual,Fourth & Above Owner,13.0,2179.0,115.0,277.5Nm@ 1700-2200rpm,5.0,5
+784,Mahindra Scorpio 2.6 SPORTZ CRDe,2006.0,22000.0,120000.0,Diesel,Individual,Manual,Second Owner,10.0,2179.0,120.0,290Nm@ 1800-2800rpm,8.0,5
+792,Honda Civic 1.8 V AT,2009.0,25000.0,105000.0,Petrol,Individual,Automatic,Second Owner,12.0,1799.0,130.0,172Nm@ 4300rpm,5.0,5
+1021,Honda City 1.5 E MT,2008.0,22999.9,120000.0,Petrol,Individual,Manual,Second Owner,17.0,1497.0,118.0,146Nm at 4800 rpm,5.0,5
+1027,Chevrolet Optra Magnum 2.0 LS,2011.0,27200.0,170000.0,Diesel,Individual,Manual,Fourth & Above Owner,16.0,1991.0,123.0,305Nm@ 2000rpm,5.0,5
+1062,Chevrolet Cruze LTZ AT,2011.0,44000.0,90000.0,Diesel,Individual,Automatic,Second Owner,18.0,1991.0,147.0,327Nm@ 2600rpm,4.0,5
+1165,Mahindra Scorpio M2DI,2011.0,35000.0,120000.0,Diesel,Individual,Manual,Third Owner,13.0,2179.0,115.0,277.5Nm@ 1700-2200rpm,5.0,5
+1190,Mahindra Scorpio 2.6 SLX Turbo 7 Seater,2006.0,22999.9,80000.0,Diesel,Individual,Manual,Second Owner,10.0,2179.0,120.0,290Nm@ 1800-2800rpm,7.0,5
 1230,Chevrolet Optra 1.6 LT Royale,2006.0,19000.0,94000.0,Petrol,Individual,Manual,Second Owner,17.0,1599.0,104.0,148Nm@ 3500rpm,5.0,5
-1244,Maruti Alto LXi,2009.0,12000.0,120000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1245,Hyundai Getz GLX,2005.0,9500.0,120000.0,Petrol,Individual,Manual,Fourth & Above Owner,15.0,1341.0,83.0,115Nm@ 3200rpm,5.0,5
-1252,Maruti 800 Std BSII,2003.0,3500.0,35000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-1259,Hyundai Getz GLE,2006.0,9000.0,100000.0,Petrol,Individual,Manual,Third Owner,15.0,1341.0,83.0,115Nm@ 3200rpm,5.0,5
-1263,Hyundai Getz GLE,2006.0,8100.0,100000.0,Petrol,Individual,Manual,Fourth & Above Owner,15.0,1341.0,83.0,115Nm@ 3200rpm,5.0,5
 1265,Honda City 1.5 EXI,2002.0,8100.0,161000.0,Petrol,Individual,Manual,Fourth & Above Owner,13.0,1493.0,100.0,13.1kgm@ 4600rpm,5.0,5
-1266,Maruti Alto LX,2005.0,9500.0,70000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1288,Maruti Alto LX,2004.0,6000.0,113000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1316,Maruti Wagon R LXI,2005.0,15000.0,150000.0,Petrol,Individual,Manual,Third Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-1317,Maruti Wagon R AX,2006.0,7500.0,60000.0,Petrol,Individual,Automatic,First Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-1353,Maruti Alto LXi BSIII,2009.0,13000.0,80000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1379,Maruti 800 DX 5 Speed,2001.0,7500.0,35000.0,Petrol,Individual,Manual,Third Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-1381,Maruti Wagon R VXI,2008.0,17500.0,65000.0,Petrol,Dealer,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-1409,Maruti Alto LX,2010.0,12500.0,120000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1430,Maruti 800 AC BSIII,2002.0,12000.0,120000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-1466,Maruti Zen Estilo 1.1 VXI BSIII,2008.0,12000.0,40000.0,Petrol,Individual,Manual,First Owner,18.0,1061.0,64.0,84Nm@ 3500rpm,5.0,5
-1468,Maruti 800 DX,1999.0,5200.0,100000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-1474,Maruti 800 AC,1994.0,4500.0,60000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-1484,Maruti Zen VXi - BS III,2003.0,12000.0,120000.0,Petrol,Individual,Manual,Third Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-1487,Maruti Alto LXi BSIII,2006.0,16000.0,90000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1500,Hyundai i10 Era,2007.0,13500.0,100000.0,Petrol,Individual,Manual,Second Owner,19.0,1086.0,68.0,99.04Nm@ 4500rpm,5.0,5
-1501,Maruti Wagon R LXI,2004.0,7000.0,70000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-1502,Maruti 800 Std BSII,2004.0,4500.0,77000.0,Petrol,Individual,Manual,Third Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-1555,Maruti Alto LX,2005.0,9000.0,100000.0,Petrol,Individual,Manual,Fourth & Above Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1611,Maruti Alto LXi BSIII,2005.0,18000.0,49455.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1634,Hyundai Santro Xing GLS,2009.0,15000.0,90000.0,Petrol,Individual,Manual,First Owner,17.0,1086.0,62.0,96.1Nm@ 3000rpm,5.0,5
-1649,Hyundai Santro Xing GL,2008.0,10500.0,128000.0,Petrol,Individual,Manual,First Owner,0.0,1086.0,62.0,96.1Nm@ 3000rpm,5.0,5
-1699,Hyundai Santro Xing GLS,2009.0,15000.0,77000.0,Petrol,Individual,Manual,First Owner,17.0,1086.0,62.0,96.1Nm@ 3000rpm,5.0,5
-1742,Maruti Alto LXi,2008.0,11000.0,80000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1775,Maruti 800 AC,2000.0,4500.0,50000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-1806,Maruti 800 AC BSIII,2007.0,6000.0,62000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-1822,Tata Indica V2 DLE BSIII,2007.0,20000.0,50000.0,Diesel,Individual,Manual,First Owner,17.0,1396.0,52.0,85Nm@ 2500rpm,5.0,5
-1852,Maruti 800 Std MPFi,2003.0,4500.0,35000.0,Petrol,Individual,Manual,Fourth & Above Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-1882,Maruti Zen LX,2000.0,11000.0,70000.0,Petrol,Individual,Manual,Fourth & Above Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-1886,Maruti Alto LXI,2004.0,11800.0,60000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1889,Maruti Alto LXi,2006.0,12000.0,120000.0,Petrol,Individual,Manual,Fourth & Above Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1890,Maruti 800 Std MPFi,2003.0,6500.0,90000.0,Petrol,Individual,Manual,Fourth & Above Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-1891,Maruti Alto LX,2006.0,15000.0,100000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1892,Maruti Alto Std,2009.0,15000.0,70000.0,Petrol,Individual,Manual,Fourth & Above Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
+1297,Chevrolet Optra Magnum 1.6 LT Petrol,2009.0,25000.0,80000.0,Petrol,Individual,Manual,Second Owner,12.0,1598.0,102.0,148Nm@ 4000rpm,5.0,5
+1299,Honda Accord 2.4 AT,2009.0,40000.0,100000.0,Petrol,Individual,Automatic,Second Owner,11.0,2354.0,177.0,222Nm@ 4300rpm,5.0,5
+1315,Honda Civic 1.8 V MT,2008.0,37500.0,90000.0,Petrol,Individual,Manual,Third Owner,13.0,1799.0,130.0,172Nm@ 4300rpm,5.0,5
+1354,Tata New Safari DICOR 2.2 EX 4x2,2008.0,15000.0,120000.0,Diesel,Individual,Manual,Fourth & Above Owner,11.0,2179.0,138.0,320Nm@ 1700-2700rpm,7.0,5
+1374,Honda City 1.5 V MT,2009.0,35000.0,54290.0,Petrol,Dealer,Manual,First Owner,17.0,1497.0,118.0,146Nm at 4800 rpm,5.0,5
+1377,Honda City i-VTEC S,2010.0,35000.0,58544.0,Petrol,Dealer,Manual,Second Owner,17.0,1497.0,117.0,145Nm@ 4600rpm,5.0,5
+1411,Audi Q5 2.0 TDI,2011.0,130000.0,120000.0,Diesel,Individual,Automatic,First Owner,12.0,1968.0,167.0,350Nm@ 1750-2500rpm,5.0,5
+1429,Hyundai Sonata CRDi M/T,2010.0,50000.0,120000.0,Diesel,Individual,Manual,Second Owner,11.0,1991.0,150.0,32.1kgm@ 2000rpm,5.0,5
+1434,Honda Civic 1.8 S MT,2007.0,24500.0,90000.0,Petrol,Individual,Manual,Third Owner,13.0,1799.0,130.0,172Nm@ 4300rpm,5.0,5
+1440,BMW X1 sDrive20d M Sport,2011.0,107500.0,42545.0,Diesel,Dealer,Automatic,First Owner,19.0,1998.0,190.0,400nm@ 1750-2500rpm,5.0,5
+1467,Tata New Safari DICOR 2.2 EX 4x2,2008.0,30000.0,120000.0,Diesel,Individual,Manual,Second Owner,11.0,2179.0,138.0,320Nm@ 1700-2700rpm,7.0,5
+1469,Mahindra Scorpio 2.6 CRDe,2003.0,30000.0,98000.0,Diesel,Individual,Manual,First Owner,10.0,2179.0,120.0,290Nm@ 1800-2800rpm,8.0,5
+1496,Honda City V AT,2010.0,40999.9,110000.0,Petrol,Individual,Automatic,Third Owner,15.0,1497.0,116.0,146Nm@ 4800rpm,5.0,5
+1535,Tata New Safari DICOR 2.2 EX 4x2,2009.0,15000.0,150000.0,Diesel,Individual,Manual,Fourth & Above Owner,11.0,2179.0,138.0,320Nm@ 1700-2700rpm,7.0,5
+1573,Toyota Corolla Altis 1.8 VL AT,2012.0,55000.0,57728.0,Petrol,Trustmark Dealer,Automatic,First Owner,14.0,1794.0,138.0,173Nm@ 4000rpm,5.0,5
+1632,Maruti SX4 ZXI AT,2011.0,22000.0,65000.0,Petrol,Individual,Automatic,Third Owner,12.0,1586.0,103.0,145Nm@ 4100rpm,5.0,5
+1633,Maruti SX4 ZXI AT,2011.0,26000.0,65000.0,Petrol,Individual,Automatic,Third Owner,12.0,1586.0,103.0,145Nm@ 4100rpm,5.0,5
+1665,Chevrolet Optra Magnum 2.0 LT,2008.0,21000.0,90000.0,Diesel,Individual,Manual,Fourth & Above Owner,16.0,1991.0,123.0,305Nm@ 2000rpm,5.0,5
+1708,Chevrolet Cruze LTZ,2012.0,49500.0,82000.0,Diesel,Individual,Manual,Third Owner,17.0,1998.0,163.0,380Nm@ 2000rpm,5.0,5
+1728,Honda City 1.5 V AT,2010.0,32100.0,60000.0,Petrol,Individual,Automatic,Second Owner,16.0,1497.0,118.0,146Nm at 4800 rpm,5.0,5
+1738,Mahindra Scorpio VLS 2.2 mHawk,2009.0,32000.0,80000.0,Diesel,Individual,Manual,Third Owner,12.0,2179.0,120.0,290Nm@ 1800-2800rpm,7.0,5
+1763,Chevrolet Cruze LTZ,2010.0,27000.0,120000.0,Diesel,Individual,Manual,Third Owner,18.0,1991.0,147.0,327Nm@ 2600rpm,5.0,5
+1786,Mahindra Scorpio M2DI,2010.0,42000.0,160500.0,Diesel,Individual,Manual,Fourth & Above Owner,13.0,2179.0,115.0,277.5Nm@ 1700-2200rpm,5.0,5
+1795,Chevrolet Optra Magnum 2.0 LS BSIII,2011.0,29000.0,88000.0,Diesel,Individual,Manual,Third Owner,16.0,1991.0,123.0,305Nm@ 2000rpm,5.0,5
+1839,Mahindra Scorpio VLX 2WD BSIII,2008.0,29000.0,120000.0,Diesel,Individual,Manual,Second Owner,12.0,2179.0,120.0,290Nm@ 1800-2800rpm,8.0,5
+1880,Skoda Yeti Ambition 4WD,2011.0,60000.0,202000.0,Diesel,Individual,Manual,First Owner,17.0,1968.0,138.0,320Nm@ 1750-2500rpm,5.0,5
 1893,Hyundai Accent VIVA CRDi,2004.0,17000.0,160000.0,Diesel,Individual,Manual,Third Owner,13.0,1493.0,82.0,187Nm@ 2500rpm,5.0,5
+1894,Mahindra Scorpio 2.6 CRDe,2006.0,25000.0,120000.0,Diesel,Individual,Manual,Third Owner,10.0,2179.0,120.0,290Nm@ 1800-2800rpm,8.0,5
 1895,Hyundai Accent CRDi,2005.0,10000.0,100000.0,Diesel,Individual,Manual,Third Owner,13.0,1493.0,82.0,187Nm@ 2500rpm,5.0,5
-1926,Maruti 800 Std,2004.0,3150.4,110000.0,Petrol,Individual,Manual,Third Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-1940,Maruti Alto LXi,2007.0,13000.0,88700.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-1953,Maruti Alto LXi BSIII,2010.0,15000.0,120000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
+1897,Chevrolet Cruze LTZ,2010.0,25000.0,135000.0,Diesel,Individual,Manual,Third Owner,18.0,1991.0,147.0,327Nm@ 2600rpm,5.0,5
+1908,Honda Civic 1.8 V AT,2009.0,28000.0,40000.0,Petrol,Individual,Automatic,Third Owner,12.0,1799.0,130.0,172Nm@ 4300rpm,5.0,5
+1915,Tata New Safari Dicor VX 4X2 BS IV,2009.0,15000.0,90000.0,Diesel,Individual,Manual,Second Owner,13.0,2179.0,138.0,320Nm@ 1700-2700rpm,7.0,5
+1965,Tata Sumo MKII Turbo 2.0 LX,2010.0,15000.0,225000.0,Diesel,Individual,Manual,Third Owner,14.0,1948.0,90.0,190Nm@ 2000-3000,9.0,5
+1968,Toyota Corolla Altis JS MT,2015.0,110000.0,50000.0,Petrol,Individual,Manual,First Owner,14.0,1798.0,138.0,173Nm@ 4000rpm,5.0,5
 1971,Honda City 1.5 GXI,2004.0,19800.0,110000.0,Petrol,Individual,Manual,Third Owner,12.0,1493.0,100.0,13.1kgm@ 4600rpm,5.0,5
-1973,Maruti Wagon R LXI,2005.0,13000.0,140000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-2009,Maruti 800 AC BSII,2004.0,5500.0,50000.0,Petrol,Individual,Manual,Third Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-2049,Maruti Zen Base,2002.0,6500.0,80000.0,Petrol,Individual,Manual,Second Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-2055,Maruti Wagon R LXI,2003.0,5000.0,147000.0,Petrol,Individual,Manual,Fourth & Above Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-2114,Maruti 800 Std BSII,2004.0,7500.0,46000.0,Petrol,Individual,Manual,Fourth & Above Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-2119,Maruti Alto LXi,2010.0,17000.0,75000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-2122,Chevrolet Spark 1.0 LS,2009.0,8000.0,80000.0,Petrol,Individual,Manual,Fourth & Above Owner,18.0,995.0,62.0,90.3Nm@ 4200rpm,5.0,5
-2140,Daewoo Matiz SS,2000.0,8600.0,46951.0,Petrol,Individual,Manual,First Owner,18.0,796.0,53.0,71Nm@ 3500rpm,5.0,5
-2145,Maruti Zen LXI,2001.0,3000.0,10000.0,Petrol,Individual,Manual,First Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-2167,Maruti Zen LXI,2005.0,6000.0,90000.0,Petrol,Individual,Manual,Second Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-2183,Maruti Alto LXi,2008.0,12800.0,19000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-2233,Maruti 800 AC,2006.0,12000.0,40000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-2241,Chevrolet Aveo U-VA 1.2 LS,2008.0,15000.0,60000.0,Petrol,Individual,Manual,Fourth & Above Owner,15.0,1150.0,74.0,110Nm@ 4400rpm,5.0,5
-2245,Hyundai Getz GLS,2005.0,13000.0,50000.0,Petrol,Individual,Manual,Second Owner,15.0,1341.0,83.0,115Nm@ 3200rpm,5.0,5
-2254,Maruti 800 AC,2011.0,10000.0,120000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-2256,Maruti 800 AC,2007.0,3500.0,10000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-2276,Maruti Omni 8 Seater BSII,2010.0,13000.0,120000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,35.0,6.1kgm@ 3000rpm,8.0,5
-2279,Maruti Wagon R LX,2006.0,13000.0,80000.0,Petrol,Individual,Manual,Third Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-2286,Maruti Alto LX,2006.0,12000.0,30000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-2290,Maruti Wagon R VXI,2006.0,25000.0,70000.0,Petrol,Individual,Manual,First Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-2313,Maruti Zen LXi - BS III,2005.0,6000.0,70000.0,Petrol,Individual,Manual,Second Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-2323,Maruti 800 Std,2006.0,11499.9,59000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-2327,Maruti Omni 5 Str STD,1998.0,8000.0,70000.0,Petrol,Individual,Manual,First Owner,14.0,796.0,35.0,6.1kgm@ 3000rpm,5.0,5
-2330,Chevrolet Spark 1.0 LS,2007.0,9000.0,93000.0,Petrol,Individual,Manual,Third Owner,18.0,995.0,62.0,90.3Nm@ 4200rpm,5.0,5
-2332,Maruti Alto LX,2007.0,13500.0,57000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-2340,Maruti Zen LX,1999.0,5000.0,60000.0,Petrol,Individual,Manual,Fourth & Above Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-2350,Maruti Alto LX,2010.0,12500.0,80000.0,Petrol,Individual,Manual,Fourth & Above Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-2364,Maruti Wagon R PRIMEA,2006.0,12000.0,90000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
+2095,Chevrolet Optra Magnum 2.0 LT BS3,2008.0,22500.0,120000.0,Diesel,Individual,Manual,Second Owner,16.0,1991.0,123.0,305Nm@ 2000rpm,5.0,5
+2121,Honda City 1.5 V Inspire,2010.0,35000.0,110000.0,Petrol,Individual,Manual,Third Owner,17.0,1497.0,118.0,146Nm at 4800 rpm,5.0,5
+2134,Honda Accord V6 AT,2005.0,28500.0,80000.0,Petrol,Individual,Automatic,Second Owner,9.0,2997.0,218.0,196Nm@ 5000rpm,5.0,5
+2148,Maruti SX4 ZXI AT,2009.0,20000.0,90000.0,Petrol,Individual,Automatic,Second Owner,12.0,1586.0,103.0,145Nm@ 4100rpm,5.0,5
+2170,Tata New Safari DICOR 2.2 LX 4x2,2007.0,25000.0,80000.0,Diesel,Individual,Manual,Second Owner,11.0,2179.0,138.0,320Nm@ 1700-2700rpm,7.0,5
+2184,Honda City 1.5 S MT,2009.0,25000.0,68600.0,Petrol,Individual,Manual,Third Owner,17.0,1497.0,118.0,146Nm at 4800 rpm,5.0,5
+2235,Tata New Safari DICOR 2.2 VX 4x4,2009.0,38000.0,150000.0,Diesel,Individual,Manual,First Owner,13.0,2179.0,138.0,320Nm@ 1700-2700rpm,7.0,5
+2240,Volkswagen Jetta 2.0L TDI Highline AT,2011.0,55000.0,106000.0,Diesel,Individual,Automatic,Second Owner,16.0,1968.0,138.0,320Nm@ 1750-2500rpm,5.0,5
+2282,Maruti SX4 ZXI AT Leather,2010.0,35000.0,30000.0,Petrol,Individual,Automatic,First Owner,12.0,1586.0,103.0,145Nm@ 4100rpm,5.0,5
+2293,Mahindra Scorpio 2.6 CRDe,2005.0,15100.0,200000.0,Diesel,Individual,Manual,Second Owner,10.0,2179.0,120.0,290Nm@ 1800-2800rpm,8.0,5
+2347,Hyundai Elantra SX,2013.0,55000.0,50000.0,Petrol,Individual,Manual,Second Owner,16.0,1797.0,147.0,177.5Nm@ 4700rpm,5.0,5
+2399,Chevrolet Optra Magnum 2.0 LS,2011.0,41500.0,78432.0,Diesel,Individual,Manual,First Owner,16.0,1991.0,123.0,305Nm@ 2000rpm,5.0,5
 2412,Maruti Baleno LXI,2005.0,5000.0,90000.0,Petrol,Individual,Manual,Second Owner,15.0,1590.0,94.0,130Nm@ 3000rpm,5.0,5
-2424,Maruti 800 DX,1997.0,6000.0,25000.0,Petrol,Individual,Manual,Third Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-2431,Chevrolet Spark 1.0,2008.0,4500.0,70000.0,Petrol,Individual,Manual,First Owner,18.0,995.0,62.0,90.3Nm@ 4200rpm,5.0,5
-2455,Tata Indica V2 eXeta GLS,2006.0,11000.0,53523.0,Petrol,Dealer,Manual,First Owner,16.0,1193.0,64.0,99.8Nm@ 2700rpm,5.0,5
-2458,Maruti 800 Std BSIII,2004.0,6500.0,56432.0,Petrol,Dealer,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-2459,Maruti 800 AC,2002.0,6000.0,52365.0,Petrol,Dealer,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-2460,Maruti Alto LXi BSIII,2007.0,12000.0,53512.0,Petrol,Dealer,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-2465,Maruti Omni 8 Seater BSIV,2008.0,11499.9,58632.0,Petrol,Dealer,Manual,Second Owner,14.0,796.0,35.0,6.1kgm@ 3000rpm,5.0,5
-2474,Maruti Alto LX,2007.0,13000.0,78000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-2487,Maruti Alto LXi,2010.0,16000.0,48000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-2496,Maruti Zen LX,2002.0,7500.0,30000.0,Petrol,Individual,Manual,Third Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-2505,Maruti Alto LXi BSIII,2008.0,10000.0,70000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-2507,Maruti Alto LXi,2006.0,8500.0,150000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-2521,Maruti Wagon R LXI,2004.0,8500.0,110000.0,Petrol,Individual,Manual,First Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-2547,Maruti Alto LXi,2009.0,17000.0,59000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-2558,Chevrolet Spark 1.0 PS,2010.0,12500.0,70000.0,Petrol,Individual,Manual,First Owner,16.0,995.0,63.0,90.3Nm@ 4200rpm,5.0,5
-2609,Maruti Wagon R LXI,2003.0,5500.0,167000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-2615,Chevrolet Spark 1.0 LT,2007.0,7200.0,40000.0,Petrol,Individual,Manual,Second Owner,18.0,995.0,62.0,90.3Nm@ 4200rpm,5.0,5
-2616,Tata Indica V2 DL BSIII,2007.0,9000.0,50000.0,Diesel,Individual,Manual,First Owner,17.0,1396.0,52.0,85Nm@ 2500rpm,5.0,5
-2737,Maruti Wagon R LX,2005.0,11000.0,110000.0,Petrol,Individual,Manual,First Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-2753,Hyundai Santro Xing GLS,2008.0,11499.9,80000.0,Petrol,Individual,Manual,Second Owner,17.0,1086.0,62.0,96.1Nm@ 3000rpm,5.0,5
-2761,Maruti 800 EX,2004.0,7000.0,220000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-2770,Tata Nano Cx,2009.0,7000.0,15000.0,Petrol,Individual,Manual,First Owner,26.0,624.0,35.0,48Nm@ 3000rpm,4.0,5
-2776,Maruti Alto LXi,2009.0,13500.0,100000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-2783,Maruti Wagon R LXI Minor,2008.0,10500.0,100000.0,Petrol,Individual,Manual,Third Owner,18.0,1061.0,67.0,84Nm@ 3500rpm,5.0,5
-2784,Maruti 800 AC,2008.0,6000.0,80000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-2785,Maruti Alto LXi BSIII,2008.0,11299.9,80000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-2818,Maruti 800 Std,2001.0,3900.0,42108.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
+2421,Ford Ikon 1.6 Nxt,2009.0,18000.0,70000.0,Petrol,Individual,Manual,Second Owner,14.0,1597.0,92.0,130@ 2500(kgm@ rpm),5.0,5
+2543,Chevrolet Optra Magnum 2.0 LT,2012.0,40000.0,64000.0,Diesel,Individual,Manual,First Owner,16.0,1991.0,123.0,305Nm@ 2000rpm,5.0,5
+2560,Maruti SX4 ZXI MT BSIV Leather,2010.0,28500.0,155000.0,Petrol,Individual,Manual,Second Owner,15.0,1586.0,103.0,145Nm@ 4100rpm,5.0,5
+2591,Honda Civic 1.8 S AT,2007.0,17500.0,218463.0,Petrol,Individual,Automatic,First Owner,12.0,1799.0,130.0,172Nm@ 4300rpm,5.0,5
+2621,Fiat Grande Punto 1.4 Emotion,2009.0,15000.0,55000.0,Petrol,Individual,Manual,First Owner,14.0,1368.0,88.0,115Nm@ 4500rpm,5.0,5
+2656,Maruti SX4 Vxi BSIV,2011.0,35000.0,48756.0,Petrol,Individual,Manual,Second Owner,15.0,1586.0,103.0,145Nm@ 4100rpm,5.0,5
+2706,Ford Fiesta Classic 1.6 SXI Duratec,2008.0,28500.0,60000.0,Petrol,Individual,Manual,Second Owner,15.0,1596.0,99.0,146Nm@ 3400rpm,5.0,5
+2708,BMW 3 Series 320d Highline,2009.0,110000.0,60000.0,Diesel,Individual,Automatic,Second Owner,16.0,1995.0,181.0,380Nm@ 1750-3000rpm,5.0,5
+2722,BMW 7 Series 730Ld,2007.0,75000.0,60000.0,Diesel,Individual,Automatic,Second Owner,14.0,2993.0,258.0,560Nm@ 1500rpm,5.0,5
 2880,Ford Ikon 1.6 EXi NXt,2003.0,15000.0,40000.0,Petrol,Individual,Manual,Third Owner,14.0,1597.0,92.0,130@ 2500(kgm@ rpm),5.0,5
-2886,Maruti 800 AC,2000.0,6000.0,100000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-2928,Hyundai Santro Xing GLS,2007.0,15000.0,60000.0,Petrol,Individual,Manual,Fourth & Above Owner,17.0,1086.0,62.0,96.1Nm@ 3000rpm,5.0,5
-2972,Maruti Alto LXi,2006.0,9450.0,44000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3003,Maruti Alto LXi,2010.0,13500.0,95000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3019,Maruti Alto LX BSIII,2007.0,11800.0,110000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3022,Maruti Alto LXi,2009.0,17000.0,90000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3025,Maruti Wagon R AX Minor,2007.0,8000.0,63000.0,Petrol,Individual,Automatic,Third Owner,18.0,1061.0,67.0,84Nm@ 3500rpm,5.0,5
-3032,Maruti Wagon R LX Minor,2007.0,8500.0,100000.0,Petrol,Individual,Manual,Third Owner,18.0,1061.0,67.0,84Nm@ 3500rpm,5.0,5
-3046,Maruti 800 DX,1998.0,4500.0,80000.0,Petrol,Individual,Manual,Fourth & Above Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-3064,Maruti Wagon R VXI,2006.0,13500.0,62900.0,Petrol,Individual,Manual,First Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-3125,Maruti Alto LX BSIII,2007.0,15000.0,75000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3126,Hyundai Getz GLS,2005.0,15000.0,89000.0,Petrol,Individual,Manual,Second Owner,15.0,1341.0,83.0,115Nm@ 3200rpm,5.0,5
-3128,Maruti Alto LX BSIII,2009.0,17000.0,90000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3257,Maruti Alto LXi,2010.0,16000.0,36659.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3263,Maruti Alto LXi,2009.0,16000.0,70000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3323,Maruti Alto LX,2004.0,10000.0,100000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3334,Maruti Alto STD,2009.0,11499.9,100000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3345,Maruti Wagon R LXI,2008.0,22100.0,35008.0,Petrol,Dealer,Manual,First Owner,21.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-3378,Ambassador CLASSIC 1500 DSL AC,2000.0,7500.0,90000.0,Diesel,Individual,Manual,Second Owner,12.0,1489.0,35.0,72.9Nm@ 2250rpm,5.0,5
-3382,Maruti Alto LXi,2009.0,14000.0,35000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3388,Maruti Alto LX,2009.0,12000.0,17000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3433,Maruti Alto LXI,2004.0,10500.0,96000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3457,Chevrolet Spark 1.0 LS,2009.0,15000.0,80000.0,Petrol,Individual,Manual,Second Owner,18.0,995.0,62.0,90.3Nm@ 4200rpm,5.0,5
-3459,Maruti Zen Estilo 1.1 LX BSIII,2007.0,7000.0,80000.0,Petrol,Individual,Manual,Second Owner,18.0,1061.0,64.0,84Nm@ 3500rpm,5.0,5
-3460,Maruti Zen Estilo 1.1 LX BSIII,2007.0,7000.0,80000.0,Petrol,Individual,Manual,Second Owner,18.0,1061.0,64.0,84Nm@ 3500rpm,5.0,5
-3466,Maruti Omni LPG CARGO BSIII W IMMOBILISER,2010.0,12000.0,170000.0,LPG,Individual,Manual,Second Owner,10.0,796.0,32.0,57Nm@ 2500rpm,5.0,5
-3484,Maruti Alto LXi,2010.0,19000.0,35000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3509,Maruti Alto LX,2006.0,12000.0,100000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3515,Maruti Omni 8 Seater BSII,2008.0,10000.0,120000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,35.0,6.1kgm@ 3000rpm,8.0,5
+2894,Chevrolet Optra Magnum 2.0 LS,2011.0,29000.0,82500.0,Diesel,Individual,Manual,Second Owner,16.0,1991.0,123.0,305Nm@ 2000rpm,5.0,5
+2897,Honda City 1.5 S MT,2009.0,29000.0,110000.0,Petrol,Individual,Manual,Third Owner,17.0,1497.0,118.0,146Nm at 4800 rpm,5.0,5
+2929,Mahindra Scorpio M2DI,2011.0,48499.9,80000.0,Diesel,Individual,Manual,Second Owner,13.0,2179.0,115.0,277.5Nm@ 1700-2200rpm,5.0,5
+2950,Skoda Superb Elegance 1.8 TSI AT,2013.0,50000.0,60000.0,Petrol,Individual,Automatic,First Owner,13.0,1798.0,157.0,250Nm@ 1500-4500rpm,5.0,5
+2974,Honda City 1.5 E MT,2009.0,35000.0,35000.0,Petrol,Individual,Manual,First Owner,17.0,1497.0,118.0,146Nm at 4800 rpm,5.0,5
+3061,Tata New Safari Dicor GX 4X2 BS IV,2008.0,20000.0,110000.0,Diesel,Individual,Manual,First Owner,13.0,2179.0,138.0,320Nm@ 1700-2700rpm,7.0,5
+3065,Volkswagen Jetta 2.0L TDI Highline,2011.0,42500.0,120000.0,Diesel,Individual,Manual,Second Owner,19.0,1968.0,138.0,320Nm@ 1750-2500rpm,5.0,5
+3107,Mercedes-Benz New C-Class C 200 Kompressor Elegance AT,2007.0,40000.0,42000.0,Petrol,Dealer,Automatic,First Owner,11.0,1796.0,186.0,285Nm@ 2400-4000rpm,5.0,5
+3161,BMW X1 sDrive20d M Sport,2011.0,107500.0,42545.0,Diesel,Dealer,Automatic,First Owner,19.0,1998.0,190.0,400nm@ 1750-2500rpm,5.0,5
+3172,Mahindra Scorpio 1.99 S10 4WD,2008.0,45000.0,78000.0,Diesel,Dealer,Manual,First Owner,15.0,1997.0,120.0,280Nm@ 1800-2800rpm,7.0,5
+3250,Toyota Corolla Altis 1.8 G CVT,2013.0,62500.0,39000.0,Petrol,Dealer,Automatic,First Owner,14.0,1798.0,138.0,173Nm@ 4000rpm,5.0,5
+3353,Renault Koleos 2.0 Diesel,2013.0,100000.0,75010.0,Diesel,Dealer,Automatic,First Owner,13.0,1995.0,148.0,320Nm@ 2000rpm,5.0,5
+3458,BMW 3 Series 320d Sedan,2007.0,48000.0,110000.0,Diesel,Individual,Automatic,Fourth & Above Owner,16.0,1995.0,181.0,380Nm@ 1750-3000rpm,5.0,5
 3546,Honda Civic 1.8 (E) MT,2006.0,15000.0,80000.0,Petrol,Individual,Manual,Third Owner,13.0,1799.0,130.0,172Nm@ 4300rpm,5.0,5
-3595,Maruti 800 EX BSII,2003.0,5559.9,36088.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-3608,Maruti Wagon R LXI,2003.0,13500.0,40000.0,Petrol,Individual,Manual,First Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-3661,Tata Indica GLS BS IV,2007.0,7800.0,38000.0,Petrol,Individual,Manual,Second Owner,15.0,1193.0,65.0,102Nm@ 2600rpm,5.0,5
-3681,Maruti 800 EX BSII,2003.0,5559.9,36088.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-3752,Maruti 800 AC,2008.0,6500.0,40000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-3797,Maruti Zen Estilo LXI BSIII,2007.0,8500.0,160000.0,Petrol,Individual,Manual,Fourth & Above Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-3801,Maruti Wagon R VXI Minor,2007.0,15000.0,70000.0,Petrol,Individual,Manual,Third Owner,18.0,1061.0,67.0,84Nm@ 3500rpm,5.0,5
-3805,Maruti Wagon R LXI,2006.0,7000.0,110000.0,Petrol,Individual,Manual,Fourth & Above Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-3807,Maruti Wagon R LXI,2005.0,6500.0,35000.0,Petrol,Individual,Manual,First Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-3829,Maruti Wagon R LXI,2005.0,7000.0,188000.0,Petrol,Individual,Manual,Fourth & Above Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-3881,Hyundai Santro Xing GLS,2009.0,18000.0,80000.0,Petrol,Individual,Manual,Second Owner,17.0,1086.0,62.0,96.1Nm@ 3000rpm,5.0,5
-3890,Maruti 800 Std,1995.0,5500.0,70000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-3893,Maruti Alto LXi BSIII,2009.0,13500.0,50000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3920,Maruti Zen LX,2003.0,5800.0,170000.0,Petrol,Individual,Manual,Third Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-3925,Maruti Alto LXi,2008.0,14500.0,120000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-3974,Hyundai Santro Xing GLS,2009.0,15000.0,77000.0,Petrol,Individual,Manual,First Owner,17.0,1086.0,62.0,96.1Nm@ 3000rpm,5.0,5
-3994,Maruti Wagon R LXI Minor,2008.0,10000.0,66530.0,Petrol,Individual,Manual,Second Owner,18.0,1061.0,67.0,84Nm@ 3500rpm,5.0,5
-4006,Maruti Alto LXi,2009.0,15000.0,40000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-4013,Maruti Wagon R VXI,2003.0,6500.0,70000.0,Petrol,Individual,Manual,Fourth & Above Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
+3623,Mahindra Scorpio VLX 2WD BSIII,2008.0,29000.0,120000.0,Diesel,Individual,Manual,Second Owner,12.0,2179.0,120.0,290Nm@ 1800-2800rpm,8.0,5
+3717,Toyota Camry V4 (MT),2004.0,25000.0,120000.0,Petrol,Individual,Manual,Second Owner,13.0,2362.0,164.0,224Nm@ 4000rpm,5.0,5
+3827,Hyundai Elantra SX,2013.0,51100.0,90000.0,Petrol,Individual,Manual,Second Owner,16.0,1797.0,147.0,177.5Nm@ 4700rpm,5.0,5
+3828,Honda City 1.5 V MT,2010.0,30000.0,100000.0,Petrol,Individual,Manual,Third Owner,17.0,1497.0,118.0,146Nm at 4800 rpm,5.0,5
+3983,Chevrolet Cruze LTZ,2012.0,49500.0,82000.0,Diesel,Individual,Manual,Third Owner,17.0,1998.0,163.0,380Nm@ 2000rpm,5.0,5
+3997,Honda City V MT,2010.0,28500.0,79000.0,Petrol,Individual,Manual,First Owner,16.0,1497.0,116.0,146Nm@ 4800rpm,5.0,5
 4017,Maruti Gypsy King Soft Top MPI BSIV,2002.0,35000.0,60000.0,Petrol,Individual,Manual,First Owner,11.0,1298.0,80.0,103Nm@ 4500rpm,8.0,5
-4018,Maruti Alto LXi,2009.0,19500.0,40000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-4033,Daewoo Matiz SD,2001.0,4500.0,137000.0,Petrol,Individual,Manual,First Owner,18.0,796.0,53.0,71Nm@ 3500rpm,5.0,5
-4108,Maruti 800 DX,1996.0,4000.0,32000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-4121,Maruti Alto LXi,2007.0,10000.0,90000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-4148,Chevrolet Spark 1.0 LT Option Pack w/ Airbag,2009.0,6000.0,110000.0,Petrol,Individual,Manual,Third Owner,16.0,995.0,63.0,90.3Nm@ 4200rpm,5.0,5
-4160,Maruti 800 Std,2002.0,5000.0,62000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-4165,Maruti Wagon R VXI,2005.0,12000.0,60000.0,Petrol,Individual,Manual,Fourth & Above Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-4172,Maruti Alto LX,2006.0,10000.0,42500.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-4181,Tata Indica GLS BS IV,2007.0,7500.0,100000.0,Petrol,Individual,Manual,Second Owner,15.0,1193.0,65.0,102Nm@ 2600rpm,5.0,5
-4285,Maruti 800 DX,1998.0,7000.0,100000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-4291,Maruti Zen LX - BS III,2006.0,10000.0,120000.0,Petrol,Individual,Manual,Second Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-4310,Maruti Zen Estilo 1.1 LXI BSIII,2007.0,15000.0,35000.0,Petrol,Individual,Manual,First Owner,18.0,1061.0,64.0,84Nm@ 3500rpm,5.0,5
+4088,Chevrolet Cruze LTZ AT,2011.0,44000.0,90000.0,Diesel,Individual,Automatic,Second Owner,18.0,1991.0,147.0,327Nm@ 2600rpm,4.0,5
+4112,Tata Sumo SE Plus BSII,2000.0,9500.0,120000.0,Diesel,Individual,Manual,Fourth & Above Owner,12.0,1948.0,68.0,12@ 2500(kgm@ rpm),10.0,5
+4142,Chevrolet Cruze LTZ AT,2011.0,43000.0,80000.0,Diesel,Individual,Automatic,Second Owner,18.0,1991.0,147.0,327Nm@ 2600rpm,4.0,5
+4185,Toyota Corolla Altis 1.8 Sport,2010.0,35000.0,80000.0,Petrol,Individual,Manual,Second Owner,12.0,1794.0,132.0,170Nm@ 4200rpm,5.0,5
+4301,Toyota Corolla Altis 1.8 J,2010.0,35000.0,60000.0,Petrol,Individual,Manual,Second Owner,14.0,1798.0,138.0,173Nm@ 4000rpm,5.0,5
+4341,Mahindra Scorpio M2DI,2012.0,37000.0,120000.0,Diesel,Individual,Manual,Second Owner,13.0,2179.0,115.0,277.5Nm@ 1700-2200rpm,5.0,5
 4344,Hyundai Accent CRDi,2006.0,12000.0,90000.0,Diesel,Individual,Manual,Second Owner,13.0,1493.0,82.0,187Nm@ 2500rpm,5.0,5
+4352,Tata Sumo MKII Turbo 2.0 LX,2010.0,15000.0,225000.0,Diesel,Individual,Manual,Third Owner,14.0,1948.0,90.0,190Nm@ 2000-3000,9.0,5
+4355,Toyota Corolla Altis JS MT,2015.0,110000.0,50000.0,Petrol,Individual,Manual,First Owner,14.0,1798.0,138.0,173Nm@ 4000rpm,5.0,5
 4358,Honda City 1.5 GXI,2004.0,19800.0,110000.0,Petrol,Individual,Manual,Third Owner,12.0,1493.0,100.0,13.1kgm@ 4600rpm,5.0,5
-4360,Maruti Wagon R LXI,2005.0,13000.0,140000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
+4369,Mahindra Scorpio VLS 2.2 mHawk,2008.0,40000.0,100000.0,Diesel,Individual,Manual,Third Owner,12.0,2179.0,120.0,290Nm@ 1800-2800rpm,7.0,5
 4372,Opel Astra 1.6,1998.0,6800.0,110000.0,Petrol,Individual,Manual,Third Owner,13.0,1598.0,77.0,121Nm@ 2800rpm,5.0,5
 4373,Skoda Octavia Classic 1.9 TDI MT,2006.0,28000.0,150000.0,Diesel,Individual,Manual,Third Owner,18.0,1896.0,66.0,210 / 1900,5.0,5
-4402,Maruti Alto LXi,2010.0,21500.0,64000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-4412,Hyundai Santro Xing GLS,2008.0,14000.0,80000.0,Petrol,Individual,Manual,Third Owner,17.0,1086.0,62.0,96.1Nm@ 3000rpm,5.0,5
-4440,Tata Indica GLS BS IV,2007.0,12500.0,50000.0,Petrol,Individual,Manual,First Owner,15.0,1193.0,65.0,102Nm@ 2600rpm,5.0,5
-4457,Maruti Alto LXi,2009.0,15500.0,54000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
+4390,BMW 3 Series 320d Luxury Line,2010.0,110000.0,102000.0,Diesel,Dealer,Automatic,First Owner,19.0,1995.0,187.0,400Nm@ 1750-2500rpm,5.0,5
+4391,Volkswagen Passat 2.0 TDI AT Highline,2012.0,90000.0,108000.0,Diesel,Dealer,Automatic,First Owner,17.0,1968.0,175.0,350Nm@ 1500-3500rpm,5.0,5
+4454,Tata Sumo GX 7 Str BSII,2006.0,13000.0,74000.0,Diesel,Individual,Manual,First Owner,13.0,1948.0,68.0,115@ 2500(kgm@ rpm),7.0,5
+4468,Maruti SX4 Vxi BSIV,2011.0,19000.0,80000.0,Petrol,Individual,Manual,Third Owner,15.0,1586.0,103.0,145Nm@ 4100rpm,5.0,5
 4491,Hyundai Accent DLS,2003.0,10800.0,200000.0,Diesel,Individual,Manual,Second Owner,13.0,1493.0,82.0,187Nm@ 2500rpm,5.0,5
-4496,Maruti Esteem DI,2003.0,7000.0,20000.0,Diesel,Individual,Manual,First Owner,15.0,1527.0,57.0,96Nm@ 2500rpm,5.0,5
-4503,Hyundai i10 Era,2007.0,19000.0,70000.0,Petrol,Individual,Manual,Second Owner,19.0,1086.0,68.0,99.04Nm@ 4500rpm,5.0,5
-4563,Maruti Esteem Vxi - BSIII,2005.0,9300.0,80000.0,Petrol,Individual,Manual,Third Owner,15.0,1298.0,85.0,110Nm@ 4500rpm,5.0,5
-4568,Maruti 800 Std,2012.0,10000.0,70000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-4587,Maruti Wagon R VXI,2002.0,14000.0,80000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-4618,Maruti 800 Std MPFi,2003.0,4200.0,62000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-4628,Maruti Alto LX,2007.0,10000.0,60000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-4645,Maruti 800 AC,2007.0,7500.0,60000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
+4541,Honda City 1.5 S Inspire,2010.0,35000.0,120000.0,Petrol,Individual,Manual,Second Owner,17.0,1497.0,118.0,146Nm at 4800 rpm,5.0,5
+4572,Tata New Safari DICOR 2.2 EX 4x2,2009.0,22999.9,212000.0,Diesel,Individual,Manual,Third Owner,11.0,2179.0,138.0,320Nm@ 1700-2700rpm,7.0,5
+4617,Tata New Safari DICOR 2.2 EX 4x2,2008.0,50000.0,179150.0,Diesel,Individual,Manual,Second Owner,11.0,2179.0,138.0,320Nm@ 1700-2700rpm,7.0,5
+4650,Honda City 1.5 V AT,2010.0,80000.0,25000.0,Petrol,Individual,Automatic,First Owner,16.0,1497.0,118.0,146Nm at 4800 rpm,5.0,5
+4665,Honda CR-V 2.4L 4WD,2005.0,47699.9,85000.0,Petrol,Individual,Manual,Third Owner,11.0,2354.0,158.0,218Nm@ 4200rpm,5.0,5
+4686,Honda CR-V 2.4L 4WD MT,2008.0,40000.0,120000.0,Petrol,Individual,Manual,First Owner,11.0,2354.0,158.0,218Nm@ 4200rpm,5.0,5
+4692,Mercedes-Benz E-Class E 250 Elegance,2010.0,120000.0,35000.0,Petrol,Individual,Automatic,Second Owner,10.0,2497.0,204.0,245Nm@ 5000rpm,5.0,5
+4709,Mahindra Scorpio SLX 2.6 Turbo 8 Str,2007.0,30000.0,110000.0,Diesel,Individual,Manual,Second Owner,10.0,2179.0,120.0,290Nm@ 1800-2800rpm,7.0,5
+4711,Hyundai Verna Transform CRDi VGT SX ABS,2010.0,32000.0,70000.0,Diesel,Individual,Manual,Second Owner,16.0,1493.0,110.0,24 KGM at 1900-2750 RPM,5.0,5
 4712,Ambassador Classic 2000 DSZ AC PS,1994.0,9900.0,100000.0,Diesel,Individual,Manual,Second Owner,12.0,1995.0,52.0,106Nm@ 2200rpm,5.0,5
-4720,Maruti Zen D,2002.0,12000.0,60000.0,Diesel,Individual,Manual,Second Owner,20.0,1527.0,58.0,789Nm@ 2250rpm,5.0,5
-4732,Maruti Wagon R LXI,2008.0,22100.0,35008.0,Petrol,Dealer,Manual,First Owner,21.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-4775,Maruti Alto LX BSIII,2009.0,8500.0,90000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-4802,Maruti Zen LXi - BS III,2004.0,12000.0,80000.0,Petrol,Individual,Manual,Second Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-4807,Maruti Alto LXi BSIII,2010.0,13200.0,105000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-4811,Maruti Wagon R VXI,2004.0,3335.1,90000.0,Petrol,Individual,Manual,Third Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-4813,Maruti 800 Std,2004.0,4000.0,120000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-4848,Maruti Wagon R LXI Minor,2008.0,11000.0,80000.0,Petrol,Individual,Manual,Fourth & Above Owner,18.0,1061.0,67.0,84Nm@ 3500rpm,5.0,5
+4742,Renault Koleos 2.0 Diesel,2013.0,100000.0,75010.0,Diesel,Dealer,Automatic,First Owner,13.0,1995.0,148.0,320Nm@ 2000rpm,5.0,5
 4875,Honda City 1.3 EXI,2004.0,5000.0,62000.0,Petrol,Individual,Manual,Second Owner,13.0,1343.0,90.0,11.3kgm@ 4700rpm,5.0,5
-4892,Chevrolet Spark 1.0 LS,2008.0,6500.0,100000.0,Petrol,Individual,Manual,Third Owner,18.0,995.0,62.0,90.3Nm@ 4200rpm,5.0,5
-4916,Maruti Alto LXi,2008.0,15000.0,70000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-4919,Maruti Alto LXi,2010.0,17500.0,58000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-4927,Maruti Alto LXi,2010.0,16000.0,60000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-4930,Maruti 800 Std BSIII,2002.0,4000.0,80000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
+4880,BMW 5 Series 525d,2010.0,100000.0,60000.0,Diesel,Individual,Automatic,First Owner,16.0,1995.0,218.0,450Nm@ 1750-2500rpm,5.0,5
+4924,Mahindra Scorpio M2DI,2011.0,40000.0,140000.0,Diesel,Individual,Manual,Second Owner,13.0,2179.0,115.0,277.5Nm@ 1700-2200rpm,5.0,5
+4937,Hyundai i20 1.4 Asta (AT),2009.0,36000.0,60000.0,Petrol,Individual,Automatic,Second Owner,15.0,1396.0,100.0,13.9 kgm at 4200 rpm,5.0,5
 4973,Ambassador Grand 1500 DSZ BSIII,2008.0,12200.0,60000.0,Diesel,Individual,Manual,Second Owner,12.0,1995.0,52.0,106Nm@ 2200rpm,5.0,5
-4975,Maruti Alto LX,2007.0,11000.0,120000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-4979,Maruti Alto LXi,2007.0,12800.0,60000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-4984,Chevrolet Spark 1.0 LS,2008.0,6500.0,100000.0,Petrol,Individual,Manual,Third Owner,18.0,995.0,62.0,90.3Nm@ 4200rpm,5.0,5
-4987,Maruti 800 AC,2009.0,12500.0,80000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-4989,Maruti Alto LXi,2007.0,15000.0,80000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
+4998,Honda Accord 2.4 MT,2010.0,30000.0,74000.0,Petrol,Individual,Manual,Second Owner,12.0,2354.0,177.0,222Nm@ 4300rpm,5.0,5
 5006,Honda City 1.3 EXI,2005.0,5500.0,130000.0,Petrol,Individual,Manual,First Owner,13.0,1343.0,90.0,11.3kgm@ 4700rpm,5.0,5
-5017,Maruti Zen LXI,2002.0,5500.0,100000.0,Petrol,Individual,Manual,Second Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-5021,Maruti Zen LXI,2004.0,7000.0,150000.0,Petrol,Individual,Manual,First Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-5024,Maruti Wagon R LXI,2006.0,14000.0,150000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-5046,Maruti Zen Estilo 1.1 VXI BSIII,2007.0,15000.0,70000.0,Petrol,Individual,Manual,Third Owner,18.0,1061.0,64.0,84Nm@ 3500rpm,5.0,5
-5054,Maruti Zen Estilo VXI BSIII,2007.0,16000.0,74800.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-5055,Maruti 800 AC BSIII,2004.0,12000.0,80000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-5079,Maruti 800 AC,1999.0,8000.0,80000.0,Petrol,Individual,Manual,Third Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-5133,Maruti 800 AC,2008.0,6500.0,10000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-5138,Maruti Alto LXi,2010.0,18000.0,80500.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-5141,Maruti 800 AC Uniq,2004.0,5000.0,18000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-5142,Maruti Zen D,2006.0,8000.0,110000.0,Diesel,Individual,Manual,Second Owner,20.0,1527.0,58.0,789Nm@ 2250rpm,5.0,5
-5143,Maruti Alto LX,2005.0,11000.0,90000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-5235,Maruti Alto LXi,2008.0,12000.0,70000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-5264,Maruti Esteem LX - BSIII,2006.0,13500.0,70000.0,Petrol,Individual,Manual,Second Owner,15.0,1298.0,85.0,110Nm@ 4500rpm,5.0,5
-5268,Maruti Alto LXi,2010.0,15000.0,100000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-5275,Hyundai Santro Xing GL,2008.0,17500.0,40000.0,Petrol,Individual,Manual,First Owner,0.0,1086.0,62.0,96.1Nm@ 3000rpm,5.0,5
-5295,Maruti Alto LXi,2008.0,9500.0,70000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
+5081,Mahindra Scorpio 2.6 SLX Turbo 7 Seater,2004.0,12000.0,100000.0,Diesel,Individual,Manual,Fourth & Above Owner,10.0,2179.0,120.0,290Nm@ 1800-2800rpm,7.0,5
+5105,Mahindra Scorpio M2DI,2011.0,40000.0,475000.0,Diesel,Individual,Manual,Third Owner,13.0,2179.0,115.0,277.5Nm@ 1700-2200rpm,5.0,5
+5182,Mahindra Scorpio 2009-2014 SLE 7S BSIII,2009.0,38000.0,120000.0,Diesel,Individual,Manual,Second Owner,12.0,2179.0,120.0,290Nm@ 1800-2800rpm,7.0,5
+5205,Hyundai Accent Executive CNG,2010.0,16000.0,120000.0,CNG,Individual,Manual,Second Owner,13.0,1495.0,93.0,124.5Nm@ 3500rpm,5.0,5
+5314,Mahindra Scorpio 2.6 SLX Turbo 7 Seater,2003.0,19500.0,157138.0,Diesel,Individual,Manual,Third Owner,10.0,2179.0,120.0,290Nm@ 1800-2800rpm,7.0,5
+5346,Hyundai Verna Transform VGT CRDi,2010.0,19500.0,120000.0,Diesel,Individual,Manual,Second Owner,16.0,1493.0,110.0,24 KGM at 1900-2750 RPM,5.0,5
 5363,Hyundai Accent CRDi,2005.0,13000.0,79000.0,Diesel,Individual,Manual,Second Owner,13.0,1493.0,82.0,187Nm@ 2500rpm,5.0,5
-5410,Maruti 800 Std,1997.0,5000.0,110000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-5412,Maruti Alto LXi BSIII,2009.0,12500.0,60000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-5415,Maruti Alto STD,2010.0,8500.0,150000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-5436,Chevrolet Spark 1.0 PS LPG,2007.0,10000.0,84000.0,LPG,Individual,Manual,Third Owner,16.0,995.0,60.0,88.4Nm@ 4200rpm,5.0,5
-5448,Maruti 800 Std,2007.0,4500.0,80000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
+5367,Hyundai Verna Transform SX VGT CRDi,2010.0,22000.0,80000.0,Diesel,Individual,Manual,Second Owner,16.0,1493.0,110.0,24 KGM at 1900-2750 RPM,5.0,5
+5382,Hyundai Verna Transform VGT CRDi,2010.0,22000.0,80000.0,Diesel,Individual,Manual,Second Owner,16.0,1493.0,110.0,24 KGM at 1900-2750 RPM,5.0,5
+5393,BMW X1 sDrive20d M Sport,2012.0,92500.0,96000.0,Diesel,Dealer,Automatic,Second Owner,19.0,1998.0,190.0,400nm@ 1750-2500rpm,5.0,5
+5399,Mercedes-Benz New C-Class C 250 CDI Elegance,2011.0,100000.0,90000.0,Diesel,Dealer,Automatic,First Owner,14.0,2143.0,204.0,500Nm@ 1600-1800rpm,5.0,5
+5426,Chevrolet Cruze LTZ,2010.0,27000.0,90000.0,Diesel,Individual,Manual,Second Owner,18.0,1991.0,147.0,327Nm@ 2600rpm,5.0,5
+5440,Chevrolet Optra Magnum 1.6 LT Petrol,2010.0,22500.0,60000.0,Petrol,Individual,Manual,Second Owner,12.0,1598.0,102.0,148Nm@ 4000rpm,5.0,5
+5457,Tata New Safari DICOR 2.2 LX 4x2,2009.0,25000.0,110000.0,Diesel,Individual,Manual,First Owner,11.0,2179.0,138.0,320Nm@ 1700-2700rpm,7.0,5
 5458,Hyundai Accent CRDi,2005.0,20000.0,200000.0,Diesel,Individual,Manual,Second Owner,13.0,1493.0,82.0,187Nm@ 2500rpm,5.0,5
-5461,Maruti 800 AC,2005.0,4000.0,96000.0,Petrol,Individual,Manual,Fourth & Above Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-5465,Maruti 800 Std MPFi,2003.0,4500.0,90000.0,Petrol,Individual,Manual,Fourth & Above Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-5497,Maruti Wagon R VXI,2005.0,7000.0,50000.0,Petrol,Individual,Manual,Third Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-5503,Maruti Alto LX,2009.0,11599.9,110000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
+5534,Hyundai Verna Transform SX VGT CRDi AT BS III,2010.0,24500.0,185000.0,Diesel,Individual,Automatic,Fourth & Above Owner,16.0,1493.0,110.0,24 KGM at 1900-2750 RPM,5.0,5
 5551,Hyundai Accent VIVA CRDi,2003.0,14500.0,120000.0,Diesel,Individual,Manual,Fourth & Above Owner,13.0,1493.0,82.0,187Nm@ 2500rpm,5.0,5
-5562,Maruti Alto LX,2009.0,12500.0,70000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-5564,Maruti Wagon R LX Minor,2007.0,12500.0,100000.0,Petrol,Individual,Manual,Third Owner,18.0,1061.0,67.0,84Nm@ 3500rpm,5.0,5
-5576,Maruti Alto LXi,2007.0,13000.0,90000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
+5571,Skoda Octavia Classic 1.9 TDI MT,2007.0,30000.0,155000.0,Diesel,Individual,Manual,First Owner,18.0,1896.0,66.0,210 / 1900,5.0,5
+5591,Chevrolet Cruze LTZ,2011.0,40999.9,80000.0,Diesel,Individual,Manual,Second Owner,18.0,1991.0,147.0,327Nm@ 2600rpm,5.0,5
 5600,Hyundai Accent GLS 1.6 ABS,2006.0,11000.0,140000.0,Petrol,Individual,Manual,Second Owner,14.0,1599.0,94.0,12.5kgm@ 3500rpm,5.0,5
-5609,Maruti Zen LX BSII,1998.0,7000.0,40000.0,Petrol,Individual,Manual,Second Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-5675,Maruti Alto LXi,2007.0,10000.0,70000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-5680,Maruti Zen LXI,2000.0,5000.0,180000.0,Petrol,Individual,Manual,Fourth & Above Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-5701,Maruti Zen LXI,1997.0,7000.0,100000.0,Petrol,Individual,Manual,Second Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-5713,Maruti 800 AC,1997.0,2999.9,80000.0,Petrol,Individual,Manual,Third Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-5725,Maruti Esteem AX,1997.0,12500.0,94000.0,Petrol,Individual,Automatic,Fourth & Above Owner,15.0,1298.0,85.0,110Nm@ 4500rpm,5.0,5
-5729,Maruti Alto LXi BSIII,2010.0,14000.0,80000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-5732,Maruti Alto LXi,2007.0,11000.0,120000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-5738,Maruti Alto LX,2006.0,6500.0,100000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-5745,Maruti 800 Std,2001.0,4500.0,60000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-5747,Tata Indica GLS BS IV,2007.0,8000.0,80000.0,Petrol,Individual,Manual,Third Owner,15.0,1193.0,65.0,102Nm@ 2600rpm,5.0,5
-5758,Maruti Wagon R LXI,2006.0,8000.0,150000.0,Petrol,Individual,Manual,Fourth & Above Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-5849,Maruti Wagon R LXI Minor,2008.0,11499.9,100000.0,Petrol,Individual,Manual,Second Owner,18.0,1061.0,67.0,84Nm@ 3500rpm,5.0,5
+5712,Mahindra Scorpio 2.6 CRDe,2006.0,31000.0,90000.0,Diesel,Individual,Manual,Third Owner,10.0,2179.0,120.0,290Nm@ 1800-2800rpm,8.0,5
+5721,Mahindra Scorpio SLX 2.6 Turbo 8 Str,2007.0,30000.0,110000.0,Diesel,Individual,Manual,First Owner,10.0,2179.0,120.0,290Nm@ 1800-2800rpm,7.0,5
+5735,Hyundai Verna Transform CRDi VGT SX ABS,2010.0,25000.0,190000.0,Diesel,Individual,Manual,Third Owner,16.0,1493.0,110.0,24 KGM at 1900-2750 RPM,5.0,5
+5756,Honda Civic 1.8 V MT,2009.0,24000.0,70000.0,Petrol,Individual,Manual,First Owner,13.0,1799.0,130.0,172Nm@ 4300rpm,5.0,5
+5784,Skoda Octavia Ambiente 1.9 TDI MT,2007.0,11000.0,120000.0,Diesel,Individual,Manual,Second Owner,18.0,1896.0,66.0,210 / 1900,5.0,5
+5786,Chevrolet Captiva LT,2009.0,26000.0,80000.0,Diesel,Individual,Manual,Second Owner,11.0,1991.0,147.0,320Nm@ 2000rpm,7.0,5
+5794,Skoda Superb Elegance 2.0 TDI CR AT,2013.0,60000.0,90000.0,Diesel,Individual,Automatic,First Owner,17.0,1968.0,138.0,320Nm@ 1750-2500rpm,5.0,5
+5795,Volkswagen Passat 1.8 TSI MT,2010.0,30000.0,120000.0,Petrol,Individual,Manual,Second Owner,14.0,1798.0,160.0,250Nm@ 1500~4500rpm,5.0,5
+5811,Tata Sumo MKII Turbo 2.0 LX,2010.0,23500.0,90000.0,Diesel,Individual,Manual,First Owner,14.0,1948.0,90.0,190Nm@ 2000-3000,9.0,5
+5826,Honda City 1.5 V MT Exclusive,2010.0,31000.0,91000.0,Petrol,Individual,Manual,Second Owner,17.0,1497.0,118.0,146Nm at 4800 rpm,5.0,5
 5879,Hyundai Accent GLS 1.6 ABS,2004.0,11000.0,110000.0,Petrol,Individual,Manual,Second Owner,14.0,1599.0,94.0,12.5kgm@ 3500rpm,5.0,5
-5892,Maruti Zen LXI,2006.0,15000.0,106000.0,Petrol,Individual,Manual,Second Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-5964,Maruti 800 Std,2000.0,3100.0,56194.0,Petrol,Individual,Manual,Fourth & Above Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-5977,Maruti Omni 5 Seater BSIV,2011.0,13000.0,70000.0,Petrol,Individual,Manual,Second Owner,14.0,796.0,35.0,6.1kgm@ 3000rpm,5.0,5
-5991,Maruti 800 AC,2000.0,6500.0,100000.0,Petrol,Individual,Manual,Third Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-6006,Maruti Omni LPG CARGO BSIII W IMMOBILISER,2007.0,5400.0,144000.0,LPG,Individual,Manual,Second Owner,10.0,796.0,32.0,57Nm@ 2500rpm,5.0,5
-6048,Maruti Alto LXi,2009.0,12500.0,141000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6055,Maruti Wagon R VXI BS IV,2008.0,13500.0,90000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-6060,Maruti Alto LXi BSIII,2008.0,10000.0,195000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6062,Maruti 800 AC,2004.0,5000.0,50000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-6160,Maruti 800 Std,2003.0,4500.0,58000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-6163,Maruti 800 AC,1997.0,5000.0,120000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-6203,Maruti Alto LXi BSIII,2010.0,16500.0,20000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6222,Maruti Alto LXi,2010.0,13000.0,28000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6224,Maruti Alto LX,2005.0,5500.0,39000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6255,Maruti Alto LX BSIII,2005.0,11000.0,50800.0,Petrol,Dealer,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6304,Maruti Alto LXI,2004.0,9000.0,110000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6305,Maruti Wagon R LXI Minor,2007.0,12000.0,70000.0,Petrol,Individual,Manual,Second Owner,18.0,1061.0,67.0,84Nm@ 3500rpm,5.0,5
-6306,Maruti Wagon R LXI,2006.0,9000.0,168000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-6319,Maruti 800 AC,1998.0,4000.0,70000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-6321,Maruti Alto LXi BSIII,2007.0,14000.0,35000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6322,Maruti Zen VXI,2003.0,20000.0,121000.0,Petrol,Individual,Manual,First Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-6352,Maruti Alto AX,2005.0,8000.0,90000.0,Petrol,Individual,Automatic,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6386,Maruti Zen Std,1999.0,4500.0,100000.0,Petrol,Individual,Manual,Third Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-6394,Maruti 800 Std,2004.0,4000.0,57000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-6401,Maruti Alto LX BSIII,2010.0,13500.0,90000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6411,Maruti Alto LX BSIII,2006.0,8500.0,60000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6414,Tata Indica V2 LSi,2008.0,8500.0,25000.0,Petrol,Individual,Manual,Second Owner,16.0,1193.0,64.0,99.8Nm@ 2700rpm,5.0,5
-6415,Maruti Alto LXI,2003.0,6500.0,114000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
+5918,Honda City 1.5 V MT,2010.0,38000.0,85000.0,Petrol,Individual,Manual,Second Owner,17.0,1497.0,118.0,146Nm at 4800 rpm,5.0,5
+5937,Skoda Laura Ambiente 2.0 TDI CR MT,2011.0,27000.0,140000.0,Diesel,Individual,Manual,Second Owner,20.0,1968.0,108.0,250Nm@ 1500-2500rpm,5.0,5
+5941,BMW X1 sDrive20d M Sport,2011.0,107500.0,42545.0,Diesel,Dealer,Automatic,First Owner,19.0,1998.0,190.0,400nm@ 1750-2500rpm,5.0,5
+5952,Mahindra Scorpio 1.99 S10 4WD,2008.0,45000.0,78000.0,Diesel,Dealer,Manual,First Owner,15.0,1997.0,120.0,280Nm@ 1800-2800rpm,7.0,5
+5961,Mercedes-Benz E-Class E350 Petrol,2009.0,100000.0,80000.0,Petrol,Individual,Automatic,Third Owner,10.0,3498.0,272.0,355Nm@ 4500rpm,5.0,5
+5988,Mercedes-Benz New C-Class C 220 CDI Elegance AT,2008.0,72500.0,80000.0,Diesel,Individual,Automatic,Second Owner,14.0,2143.0,170.0,400Nm@ 1400-2800rpm,5.0,5
+6081,Toyota Corolla Altis 1.8 VL AT,2012.0,55000.0,100000.0,Petrol,Individual,Automatic,First Owner,14.0,1794.0,138.0,173Nm@ 4000rpm,5.0,5
+6102,Mercedes-Benz New C-Class C 220 CDI BE Avantgare,2011.0,135000.0,81500.0,Diesel,Individual,Automatic,Second Owner,14.0,2143.0,167.0,400Nm@ 1400-2800rpm,5.0,5
+6157,Ford Fiesta Classic 1.6 Duratec CLXI,2011.0,22999.9,100000.0,Petrol,Individual,Manual,First Owner,15.0,1596.0,99.0,146Nm@ 3400rpm,5.0,5
+6195,Volkswagen Vento Petrol Trendline,2011.0,22700.0,73840.0,Petrol,Individual,Manual,First Owner,15.0,1598.0,103.0,153Nm@ 3800rpm,5.0,5
+6301,Honda Civic 1.8 V MT,2009.0,22000.0,125000.0,Petrol,Individual,Manual,Second Owner,13.0,1799.0,130.0,172Nm@ 4300rpm,5.0,5
+6336,BMW X1 sDrive20d,2011.0,100000.0,50000.0,Diesel,Individual,Automatic,First Owner,17.0,1995.0,184.0,380Nm@ 1750-2750rpm,5.0,5
+6340,Chevrolet Cruze LTZ,2011.0,27000.0,100000.0,Diesel,Individual,Manual,Third Owner,18.0,1991.0,147.0,327Nm@ 2600rpm,5.0,5
+6381,Toyota Corolla Altis 1.8 VL AT,2009.0,40000.0,90000.0,Petrol,Individual,Automatic,First Owner,14.0,1794.0,138.0,173Nm@ 4000rpm,5.0,5
 6416,Honda City 1.5 EXI,2005.0,7500.0,120000.0,Petrol,Individual,Manual,First Owner,13.0,1493.0,100.0,13.1kgm@ 4600rpm,5.0,5
 6417,Skoda Octavia Ambiente 1.9 TDI MT,2003.0,10000.0,250000.0,Diesel,Individual,Manual,Second Owner,18.0,1896.0,66.0,210 / 1900,5.0,5
-6428,Chevrolet Spark 1.0 LT Option Pack w/ Airbag,2009.0,20000.0,30000.0,Petrol,Individual,Manual,First Owner,16.0,995.0,63.0,90.3Nm@ 4200rpm,5.0,5
-6430,Maruti 800 Std,2003.0,5000.0,50000.0,Petrol,Individual,Manual,Third Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-6435,Maruti Zen VXI,1998.0,5500.0,50000.0,Petrol,Individual,Manual,Second Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-6500,Maruti Alto LXi,2007.0,13500.0,60000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6508,Maruti Alto LX,2010.0,18000.0,25000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6518,Maruti Alto LX,2004.0,9000.0,60000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6520,Maruti 800 DX,1999.0,4000.0,50000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-6534,Maruti Alto LX BSIII,2008.0,12000.0,80000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6611,Maruti 800 AC BSIII,2007.0,6000.0,100000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-6627,Maruti 800 AC,2007.0,4500.0,73257.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-6638,Maruti 800 AC,1999.0,8000.0,26320.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-6665,Maruti Alto LXi,2007.0,15000.0,50000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
+6522,Honda City V MT,2009.0,29000.0,120000.0,Petrol,Individual,Manual,Second Owner,16.0,1497.0,116.0,146Nm@ 4800rpm,5.0,5
+6640,Honda Civic 1.8 V MT,2008.0,37500.0,100000.0,Petrol,Individual,Manual,Third Owner,13.0,1799.0,130.0,172Nm@ 4300rpm,5.0,5
 6678,Honda Civic 1.8 S MT,2006.0,12100.0,70000.0,Petrol,Individual,Manual,Second Owner,13.0,1799.0,130.0,172Nm@ 4300rpm,5.0,5
-6686,Maruti 800 EX 5 Speed,2006.0,6500.0,120000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-6725,Maruti 800 AC,2006.0,5000.0,40000.0,Petrol,Individual,Manual,Third Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-6741,Maruti Alto LX,2010.0,17000.0,100000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6765,Chevrolet Spark 1.0 LT,2007.0,9000.0,60000.0,Petrol,Individual,Manual,Second Owner,18.0,995.0,62.0,90.3Nm@ 4200rpm,5.0,5
-6770,Maruti Zen Estilo 1.1 LX BSIII,2007.0,12000.0,150000.0,Petrol,Individual,Manual,Second Owner,18.0,1061.0,64.0,84Nm@ 3500rpm,5.0,5
+6740,Mercedes-Benz New C-Class C 220 CDI Elegance AT,2008.0,51500.0,120000.0,Diesel,Individual,Automatic,Second Owner,14.0,2143.0,170.0,400Nm@ 1400-2800rpm,5.0,5
+6745,Volkswagen Jetta 2.0L TDI Comfortline,2012.0,42000.0,110000.0,Diesel,Individual,Manual,Third Owner,19.0,1968.0,138.0,320Nm@ 1750-2500rpm,5.0,5
 6771,Ford Ikon 1.6 Nxt,2004.0,10000.0,25000.0,Petrol,Individual,Manual,Third Owner,14.0,1597.0,92.0,130@ 2500(kgm@ rpm),5.0,5
-6782,Maruti Alto LXi BSIII,2006.0,11000.0,120000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6796,Maruti Alto LX,2008.0,9500.0,80000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6822,Maruti Alto LXi BSIII,2009.0,15000.0,70000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6847,Maruti Alto LXI,2004.0,7000.0,70000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6857,Maruti Wagon R LXI,2005.0,6500.0,90000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-6871,Maruti Alto LXi,2007.0,8500.0,120000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-6884,Maruti Zen Estilo 1.1 VXI BSIII,2007.0,15000.0,70000.0,Petrol,Individual,Manual,Third Owner,18.0,1061.0,64.0,84Nm@ 3500rpm,5.0,5
-6891,Maruti Zen Estilo VXI BSIII,2007.0,16000.0,74800.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-6892,Maruti 800 AC BSIII,2004.0,12000.0,80000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
+6824,Tata Indigo Grand Petrol,2008.0,13500.0,40000.0,Petrol,Individual,Manual,Fourth & Above Owner,12.0,1396.0,99.0,124Nm@ 3500rpm,5.0,5
 6917,Ford Ikon 1.6 Really Sport,2003.0,13000.0,80000.0,Petrol,Individual,Manual,Third Owner,14.0,1597.0,92.0,130@ 2500(kgm@ rpm),5.0,5
-6918,Maruti Esteem LX - BSIII,1999.0,7000.0,65000.0,Petrol,Individual,Manual,Fourth & Above Owner,15.0,1298.0,85.0,110Nm@ 4500rpm,5.0,5
-6919,Maruti Esteem LX - BSIII,1999.0,7000.0,70000.0,Petrol,Individual,Manual,Fourth & Above Owner,15.0,1298.0,85.0,110Nm@ 4500rpm,5.0,5
-6931,Tata Indica V2 2001-2011 DLS BSIII,2007.0,5500.0,75958.0,Diesel,Individual,Manual,Second Owner,17.0,1396.0,52.0,85Nm@ 2500rpm,5.0,5
-6932,Maruti 800 AC,1996.0,4200.0,70000.0,Petrol,Individual,Manual,Third Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
+6940,Tata New Safari Dicor LX 4X2 BS IV,2007.0,20000.0,70000.0,Diesel,Individual,Manual,Second Owner,13.0,2179.0,138.0,320Nm@ 1700-2700rpm,7.0,5
 6957,Hyundai Accent GLS 1.6 ABS,2003.0,8000.0,40000.0,Petrol,Individual,Manual,Second Owner,14.0,1599.0,94.0,12.5kgm@ 3500rpm,5.0,5
-6999,Maruti Omni 5 Seater BSIV,2011.0,13000.0,70000.0,Petrol,Individual,Manual,Second Owner,14.0,796.0,35.0,6.1kgm@ 3000rpm,5.0,5
-7015,Maruti Zen Estilo 1.1 LXI BSIII,2008.0,15000.0,40000.0,Petrol,Individual,Manual,Second Owner,18.0,1061.0,64.0,84Nm@ 3500rpm,5.0,5
-7062,Maruti 800 AC,2002.0,4500.0,70000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-7120,Maruti Alto STD,2008.0,12900.0,60000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-7131,Chevrolet Aveo U-VA 1.2 LS,2007.0,10200.0,50000.0,Petrol,Individual,Manual,Second Owner,15.0,1150.0,74.0,110Nm@ 4400rpm,5.0,5
-7186,Maruti Zen Estilo LXI BSIII,2007.0,9000.0,70000.0,Petrol,Individual,Manual,First Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-7196,Maruti Alto LX,2004.0,9000.0,70000.0,Petrol,Individual,Manual,Fourth & Above Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-7205,Maruti Wagon R LXI,2006.0,12500.0,59000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-7208,Maruti Wagon R VXI,2005.0,9800.0,70000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-7217,Maruti 800 AC,1997.0,5000.0,60000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-7254,Maruti Wagon R LXI,2003.0,14500.0,65000.0,Petrol,Individual,Manual,Third Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-7269,Maruti 800 AC,2006.0,15500.0,70000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-7388,Maruti Alto LX BSIII,2007.0,12000.0,120000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-7411,Maruti 800 AC,2012.0,10000.0,30000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-7467,Maruti Alto LXi BSIII,2005.0,12500.0,70000.0,Petrol,Individual,Manual,Fourth & Above Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
+6997,Fiat Grande Punto 1.4 Emotion,2009.0,15000.0,55000.0,Petrol,Individual,Manual,First Owner,14.0,1368.0,88.0,115Nm@ 4500rpm,5.0,5
+7036,Chevrolet Cruze LTZ,2010.0,30000.0,60000.0,Diesel,Individual,Manual,First Owner,18.0,1991.0,147.0,327Nm@ 2600rpm,5.0,5
+7038,Chevrolet Cruze LTZ AT,2015.0,45000.0,155000.0,Diesel,Individual,Automatic,First Owner,14.0,1998.0,163.0,360Nm@ 2000rpm,5.0,5
+7100,Hyundai Accent Executive LPG,2010.0,16500.0,80000.0,LPG,Individual,Manual,First Owner,13.0,1495.0,93.0,124.5Nm@ 3500rpm,5.0,5
+7147,Honda CR-V 2.0L 2WD AT,2006.0,12500.0,200000.0,Petrol,Individual,Automatic,Third Owner,13.0,1997.0,141.0,190Nm@ 4200rpm,5.0,5
+7153,Skoda Octavia Rider 1.9 AT TDI,2008.0,21000.0,120000.0,Diesel,Individual,Manual,Second Owner,18.0,1896.0,66.0,210 / 1900,5.0,5
+7174,Chevrolet Cruze LTZ,2011.0,36000.0,100000.0,Diesel,Individual,Manual,First Owner,18.0,1991.0,147.0,327Nm@ 2600rpm,5.0,5
+7212,Chevrolet Optra Magnum 2.0 LS,2007.0,16000.0,130000.0,Diesel,Individual,Manual,Second Owner,16.0,1991.0,123.0,305Nm@ 2000rpm,5.0,5
+7295,Skoda Octavia Ambiente 1.9 TDI,2010.0,35500.0,116000.0,Diesel,Individual,Manual,First Owner,18.0,1896.0,66.0,210 / 1900,5.0,5
+7401,Hyundai Verna 1.6 SX VTVT AT,2012.0,47500.0,83000.0,Petrol,Individual,Automatic,First Owner,15.0,1591.0,121.0,154.9Nm@ 4200rpm,5.0,5
+7424,Honda City 1.5 S MT,2010.0,36000.0,98000.0,Petrol,Individual,Manual,Third Owner,17.0,1497.0,118.0,146Nm at 4800 rpm,5.0,5
+7438,Mahindra Scorpio 2.6 SLX Turbo 7 Seater,2003.0,20000.0,120000.0,Diesel,Individual,Manual,Second Owner,10.0,2179.0,120.0,290Nm@ 1800-2800rpm,7.0,5
 7484,Hyundai Accent CRDi,2005.0,13000.0,79000.0,Diesel,Individual,Manual,Second Owner,13.0,1493.0,82.0,187Nm@ 2500rpm,5.0,5
-7492,Maruti 800 AC BSII,2007.0,12500.0,60000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-7530,Tata Indica V2 DLE BSIII,2007.0,6500.0,120000.0,Diesel,Individual,Manual,Third Owner,17.0,1396.0,52.0,85Nm@ 2500rpm,5.0,5
-7534,Maruti Wagon R LX Minor,2009.0,16000.0,80000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-7548,Maruti 800 Std,2012.0,15000.0,76000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-7561,Maruti 800 AC,2012.0,10000.0,30000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
+7512,Volkswagen Jetta 2.0L TDI Highline AT,2013.0,85000.0,84000.0,Diesel,Individual,Automatic,Second Owner,16.0,1968.0,138.0,320Nm@ 1750-2500rpm,5.0,5
+7513,Honda CR-V 2.4 4WD AT,2004.0,32500.0,120000.0,Petrol,Individual,Automatic,Third Owner,10.0,2354.0,152.0,215Nm@ 3600rpm,5.0,5
+7520,Chevrolet Optra Magnum 2.0 LT,2011.0,30000.0,119000.0,Diesel,Individual,Manual,Second Owner,16.0,1991.0,123.0,305Nm@ 2000rpm,5.0,5
+7531,Skoda Octavia Ambiente 1.9 TDI MT,2007.0,19500.0,175000.0,Diesel,Individual,Manual,Second Owner,18.0,1896.0,66.0,210 / 1900,5.0,5
+7551,Hyundai Verna 1.6 SX VTVT AT,2012.0,47500.0,83000.0,Petrol,Individual,Automatic,First Owner,15.0,1591.0,121.0,154.9Nm@ 4200rpm,5.0,5
 7583,Hyundai Accent GLS 1.6,2004.0,11000.0,120000.0,Petrol,Individual,Manual,Fourth & Above Owner,14.0,1599.0,94.0,12.5kgm@ 3500rpm,5.0,5
-7658,Maruti 800 AC,2005.0,4500.0,55425.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-7677,Maruti Wagon R LXI Minor,2007.0,10000.0,70000.0,Petrol,Individual,Manual,Second Owner,18.0,1061.0,67.0,84Nm@ 3500rpm,5.0,5
-7683,Chevrolet Spark 1.0 PS,2008.0,7552.7,80000.0,Petrol,Individual,Manual,First Owner,16.0,995.0,63.0,90.3Nm@ 4200rpm,5.0,5
-7690,Maruti Wagon R LX,2006.0,6500.0,198000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
-7695,Maruti Alto LXi,2010.0,19000.0,80000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-7696,Maruti Alto LX,2003.0,10000.0,164000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-7728,Maruti Omni 8 Seater BSII,2008.0,16000.0,70000.0,Petrol,Individual,Manual,Fourth & Above Owner,19.0,796.0,35.0,6.1kgm@ 3000rpm,8.0,5
-7734,Maruti 800 AC,2008.0,7500.0,29000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-7740,Maruti 800 AC BSIII,2008.0,7000.0,59400.0,Petrol,Individual,Manual,Fourth & Above Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-7764,Maruti Zen Classic,1998.0,5800.0,80000.0,Petrol,Individual,Manual,Third Owner,17.0,993.0,60.0,78Nm@ 4500rpm,5.0,5
-7808,Chevrolet Spark 1.0,2009.0,14500.0,30000.0,Petrol,Individual,Manual,First Owner,18.0,995.0,62.0,90.3Nm@ 4200rpm,5.0,5
-7820,Maruti Wagon R VXI,2005.0,15000.0,80000.0,Petrol,Individual,Manual,Second Owner,18.0,998.0,67.0,90Nm@ 3500rpm,5.0,5
+7631,Chevrolet Cruze LTZ,2012.0,55000.0,74000.0,Diesel,Individual,Manual,Fourth & Above Owner,17.0,1998.0,163.0,380Nm@ 2000rpm,5.0,5
+7805,BMW 5 Series 520d Sport Line,2009.0,97500.0,80000.0,Diesel,Dealer,Automatic,Second Owner,22.0,1995.0,187.0,400Nm@ 1750-2500rpm,5.0,5
+7819,BMW 3 Series 320d Corporate Edition,2012.0,90000.0,155000.0,Diesel,Individual,Automatic,Second Owner,16.0,1995.0,181.0,380Nm@ 1750rpm,4.0,5
+7892,Volkswagen Vento Petrol Highline AT,2011.0,25000.0,140000.0,Petrol,Individual,Automatic,Second Owner,14.0,1598.0,103.0,153Nm@ 3800rpm,5.0,5
+7894,Toyota Corolla Altis 1.8 J,2009.0,34000.0,82000.0,Petrol,Individual,Manual,Second Owner,14.0,1798.0,138.0,173Nm@ 4000rpm,5.0,5
 7895,Ambassador Grand 2000 DSZ PW CL,2008.0,20000.0,80000.0,Diesel,Individual,Manual,Third Owner,13.0,1995.0,52.0,106Nm@ 2200rpm,5.0,5
-7902,Maruti Alto LXi,2008.0,11499.9,100000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-7934,Maruti 800 AC,1999.0,4000.0,100000.0,Petrol,Individual,Manual,Third Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-7957,Maruti Alto LX,2000.0,4595.7,90000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-7964,Maruti Alto LXi,2009.0,13000.0,60000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-7981,Maruti Alto LX,2000.0,4595.7,90000.0,Petrol,Individual,Manual,Second Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-7998,Maruti Alto LX,2004.0,10000.0,40000.0,Petrol,Individual,Manual,First Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
-8016,Tata Indica V2 2001-2011 DLS BSIII,2008.0,6000.0,120000.0,Diesel,Individual,Manual,Fourth & Above Owner,17.0,1396.0,52.0,85Nm@ 2500rpm,5.0,5
-8024,Maruti 800 AC,1998.0,3500.0,40000.0,Petrol,Individual,Manual,Second Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-8040,Maruti Wagon R LXI Minor,2007.0,9000.0,110000.0,Petrol,Individual,Manual,Fourth & Above Owner,18.0,1061.0,67.0,84Nm@ 3500rpm,5.0,5
+8002,Renault Fluence 2.0,2011.0,60000.0,43000.0,Petrol,Dealer,Automatic,First Owner,13.0,1997.0,135.0,190Nm@ 3700rpm,5.0,5
+8017,Tata New Safari Dicor VX 4X2,2006.0,30000.0,175000.0,Diesel,Individual,Manual,Second Owner,13.0,2179.0,138.0,320Nm@ 1700-2700rpm,7.0,5
 8041,Maruti Gypsy King Soft Top,1997.0,30000.0,186388.0,Petrol,Individual,Manual,Second Owner,14.0,1298.0,80.0,103Nm@ 4500rpm,8.0,5
-8043,Maruti Alto LXi BSIII,2006.0,12000.0,70000.0,Petrol,Individual,Manual,Third Owner,19.0,796.0,46.0,62Nm@ 3000rpm,5.0,5
+8066,Mahindra Scorpio M2DI,2011.0,36000.0,100000.0,Diesel,Individual,Manual,Fourth & Above Owner,13.0,2179.0,115.0,277.5Nm@ 1700-2200rpm,5.0,5
 8080,Honda City ZXi AT,2005.0,11000.0,100000.0,Petrol,Individual,Automatic,Second Owner,12.0,1493.0,100.0,13.1kgm@ 4600rpm,5.0,5
+8082,Chevrolet Captiva LT,2008.0,30000.0,100000.0,Diesel,Individual,Manual,Second Owner,11.0,1991.0,147.0,320Nm@ 2000rpm,7.0,5
+8084,Chevrolet Cruze LT,2011.0,30000.0,40000.0,Diesel,Individual,Manual,First Owner,18.0,1991.0,147.0,327Nm@ 2600rpm,5.0,5
 8104,Honda City 1.3 EXI,2004.0,13500.0,120000.0,Petrol,Individual,Manual,Second Owner,13.0,1343.0,90.0,11.3kgm@ 4700rpm,5.0,5
-8114,Maruti 800 AC,1997.0,4000.0,120000.0,Petrol,Individual,Manual,First Owner,16.0,796.0,37.0,59Nm@ 2500rpm,4.0,5
-8119,Hyundai Santro Xing GLS,2008.0,12000.0,191000.0,Petrol,Individual,Manual,First Owner,17.0,1086.0,62.0,96.1Nm@ 3000rpm,5.0,5
